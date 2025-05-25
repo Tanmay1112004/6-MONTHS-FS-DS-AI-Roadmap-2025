@@ -43,15 +43,3 @@ Welcome to the official 6-month learning journey to become a **Full Stack Data S
   - ChatGPT Integration with OpenAI
 
 ---
-
-## 🗂️ Repository Structure (Suggested)
-📁 6-Months-FSDS-AI-2025
-├── Month1_Python/
-├── Month2_EDA_SQL/
-├── Month3_Maths_Stats/
-├── Month4_ML/
-├── Month5_DL_NLP/
-├── Month6_PowerBI_OpenAI/
-├── Projects/
-└── Resources/
-
