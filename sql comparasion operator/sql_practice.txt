@@ -1,0 +1,131 @@
+-- SQL Practice Script
+-- This script demonstrates SQL operators, expressions, and basic database operations.
+-- It creates a CUSTOMERS table, populates it with data, and showcases various SQL queries.
+-- Suitable for execution in MySQL or any compatible SQL compiler.
+
+-- 1. Create a new database
+CREATE DATABASE IF NOT EXISTS TUTORIALSPOINT;
+USE TUTORIALSPOINT;
+
+-- 2. Create the CUSTOMERS table
+CREATE TABLE CUSTOMERS (
+    ID INT NOT NULL,
+    NAME VARCHAR(20) NOT NULL,
+    AGE INT NOT NULL,
+    ADDRESS CHAR(25),
+    SALARY DECIMAL(18, 2),
+    PRIMARY KEY (ID)
+);
+
+-- 3. Insert data into CUSTOMERS table
+INSERT INTO CUSTOMERS (ID, NAME, AGE, ADDRESS, SALARY)
+VALUES 
+    (1, 'Ramesh', 32, 'Ahmedabad', 2000.00),
+    (2, 'Khilan', 25, 'Delhi', 1500.00),
+    (3, 'kaushik', 23, 'Kota', 2000.00),
+    (4, 'Chaitali', 25, 'Mumbai', 6500.00),
+    (5, 'Hardik', 27, 'Bhopal', 8500.00),
+    (6, 'Komal', 22, 'MP', 4500.00),
+    (7, 'Muffy', 24, 'Indore', 10000.00);
+
+-- 4. Arithmetic Operators Examples
+-- Addition
+SELECT 10 + 20 AS Addition_Result;
+
+-- Multiplication
+SELECT 10 * 20 AS Multiplication_Result;
+
+-- Division
+SELECT 10 / 5 AS Division_Result;
+
+-- Modulus
+SELECT 12 % 5 AS Modulus_Result;
+
+-- 5. Comparison Operators Examples
+-- Select records where SALARY > 5000
+SELECT * FROM CUSTOMERS WHERE SALARY > 5000;
+
+-- Select records where SALARY = 2000
+SELECT * FROM CUSTOMERS WHERE SALARY = 2000;
+
+-- Select records where SALARY != 2000
+SELECT * FROM CUSTOMERS WHERE SALARY != 2000;
+
+-- Select records where SALARY >= 6500
+SELECT * FROM CUSTOMERS WHERE SALARY >= 6500;
+
+-- 6. Logical Operators Examples
+-- Using AND: Select records where AGE >= 25 AND SALARY >= 6500
+SELECT * FROM CUSTOMERS WHERE AGE >= 25 AND SALARY >= 6500;
+
+-- Using OR: Select records where AGE >= 25 OR SALARY >= 6500
+SELECT * FROM CUSTOMERS WHERE AGE >= 25 OR SALARY >= 6500;
+
+-- Using NOT: Select records where AGE IS NOT NULL
+SELECT * FROM CUSTOMERS WHERE AGE IS NOT NULL;
+
+-- Using LIKE: Select records where NAME starts with 'Ko'
+SELECT * FROM CUSTOMERS WHERE NAME LIKE 'Ko%';
+
+-- Using IN: Select records where AGE is 25 or 27
+SELECT * FROM CUSTOMERS WHERE AGE IN (25, 27);
+
+-- Using BETWEEN: Select records where AGE is between 25 and 27
+SELECT * FROM CUSTOMERS WHERE AGE BETWEEN 25 AND 27;
+
+-- Using EXISTS: Select AGE where SALARY > 6500 exists
+SELECT AGE FROM CUSTOMERS 
+WHERE EXISTS (SELECT AGE FROM CUSTOMERS WHERE SALARY > 6500);
+
+-- Using ALL: Select records where AGE is greater than all ages with SALARY > 6500
+SELECT * FROM CUSTOMERS 
+WHERE AGE > ALL (SELECT AGE FROM CUSTOMERS WHERE SALARY > 6500);
+
+-- Using ANY: Select records where AGE is greater than any age with SALARY > 6500
+SELECT * FROM CUSTOMERS 
+WHERE AGE > ANY (SELECT AGE FROM CUSTOMERS WHERE SALARY > 6500);
+
+-- 7. Boolean Expression Example
+-- Fetch records where SALARY = 10000
+SELECT * FROM CUSTOMERS WHERE SALARY = 10000;
+
+-- 8. Numeric Expression Examples
+-- Simple arithmetic expression
+SELECT (15 + 6) AS ADDITION;
+
+-- Aggregate function: Count total records
+SELECT COUNT(*) AS RECORDS FROM CUSTOMERS;
+
+-- 9. Date Expression Example
+-- Fetch current timestamp
+SELECT CURRENT_TIMESTAMP AS Current_Timestamp;
+
+-- 10. Create Table from Another Table
+-- Create SALARY table from CUSTOMERS
+CREATE TABLE SALARY AS 
+SELECT ID, SALARY 
+FROM CUSTOMERS;
+
+-- 11. Update Query Examples
+-- Update ADDRESS for customer with ID = 6
+UPDATE CUSTOMERS 
+SET ADDRESS = 'Pune' 
+WHERE ID = 6;
+
+-- Update all ADDRESS and SALARY values
+UPDATE CUSTOMERS 
+SET ADDRESS = 'Pune', SALARY = 1000.00;
+
+-- 12. Delete Query Examples
+-- Delete customer with ID = 6
+DELETE FROM CUSTOMERS 
+WHERE ID = 6;
+
+-- 13. Drop Table Example
+-- Drop the SALARY table
+DROP TABLE SALARY;
+
+-- 14. Drop Database Example (Commented to prevent accidental execution)
+-- DROP DATABASE TUTORIALSPOINT;
+
+-- End of Script
