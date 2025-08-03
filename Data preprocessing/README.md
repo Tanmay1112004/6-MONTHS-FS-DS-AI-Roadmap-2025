@@ -65,8 +65,8 @@ pip install -r requirements.txt
 
 ## 🤝 Connect with Me
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/yourprofile/)
-- 📫 Email: your.email@example.com
+- 💼 [LinkedIn]([https://www.linkedin.com/in/yourprofile/](https://www.linkedin.com/in/tanmay-kshirsagar/))
+- 📫 Email: tanmaykshirsagar001@gmail.com
 - 🧠 Portfolio: coming soon...
 
 ## ⭐ If you liked this repo
