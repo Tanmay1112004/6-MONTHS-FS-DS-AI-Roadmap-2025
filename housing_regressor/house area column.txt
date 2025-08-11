@@ -1,0 +1,20 @@
+Avg. Area Income: 
+The average income of residents in the area where the house is located.
+
+Avg. Area House Age: 
+The average age of houses in the area.
+
+Avg. Area Number of Rooms: 
+The average number of rooms in houses in the area.
+
+Avg. Area Number of Bedrooms: 
+The average number of bedrooms in houses in the area.
+
+Area Population: 
+The population of the area where the house is located.
+
+Price: 
+The price of the house.
+
+Address: 
+The address of the house.

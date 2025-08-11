@@ -1,0 +1,70 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Regression Model Prediction</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0/dist/css/bootstrap.min.css" rel="stylesheet">
+    <style>
+        body {
+            background: linear-gradient(135deg, #e0f7fa, #80deea);
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+        }
+        .card {
+            border-radius: 1rem;
+            box-shadow: 0px 4px 20px rgba(0,0,0,0.1);
+        }
+        .btn-primary {
+            background: #00796b;
+            border: none;
+        }
+        .btn-primary:hover {
+            background: #004d40;
+        }
+        h1 {
+            font-weight: bold;
+            color: #004d40;
+        }
+    </style>
+</head>
+<body>
+    <div class="container py-5">
+        <div class="card p-4">
+            <h1 class="text-center mb-4">🏡 Regression Model Prediction</h1>
+            <form action="/predict" method="POST">
+                <div class="mb-3">
+                    <label class="form-label">Average Area Income</label>
+                    <input type="number" step="any" class="form-control" name="Avg. Area Income" required>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Average Area House Age</label>
+                    <input type="number" step="any" class="form-control" name="Avg. Area House Age" required>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Average Area Number of Rooms</label>
+                    <input type="number" step="any" class="form-control" name="Avg. Area Number of Rooms" required>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Average Area Number of Bedrooms</label>
+                    <input type="number" step="any" class="form-control" name="Avg. Area Number of Bedrooms" required>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Area Population</label>
+                    <input type="number" step="any" class="form-control" name="Area Population" required>
+                </div>
+                <div class="mb-3">
+                    <label class="form-label">Select Model</label>
+                    <select class="form-select" name="model">
+                        {% for model_name in model_names %}
+                            <option value="{{ model_name }}">{{ model_name }}</option>
+                        {% endfor %}
+                    </select>
+                </div>
+                <button type="submit" class="btn btn-primary w-100">Predict</button>
+            </form>
+            <div class="text-center mt-4">
+                <a href="/results" class="btn btn-secondary w-100">📊 View Model Evaluation Results</a>
+            </div>
+        </div>
+    </div>
+</body>
+</html>

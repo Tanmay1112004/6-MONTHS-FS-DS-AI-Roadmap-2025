@@ -1,45 +1,69 @@
-# 🎯 6-Months Full Stack Data Science & AI Roadmap - 2025
+# 🏠 Housing Price Regressor
 
-> Taught by **Prakash Senapati Sir**
-
-Welcome to the official 6-month learning journey to become a **Full Stack Data Scientist & AI Engineer**. This repository is your ultimate companion to mastering all essential skills in a structured and time-bound manner.
-
----
-
-## 🧠 What You'll Learn
-
-### 📌 Month-wise Breakdown
-
-| Month | Modules Covered |
-|-------|------------------|
-| 1️⃣ Month 1 | Python Basics, Data Types, OOPs, Functional Programming, Exception Handling |
-| 2️⃣ Month 2 | Numpy, Pandas, Matplotlib, Seaborn, EDA, SQL Basics |
-| 3️⃣ Month 3 | Statistics, Probability, Distributions, Linear Algebra, SQL Joins & Aggregations |
-| 4️⃣ Month 4 | Machine Learning (Regression, Classification, Clustering, Ensemble Models) |
-| 5️⃣ Month 5 | Deep Learning (TensorFlow, PyTorch, CNN, RNN, NLP, Transfer Learning) |
-| 6️⃣ Month 6 | Power BI, Reinforcement Learning, OpenCV, Generative AI, Model Deployment |
+> **Predict the future value of homes in style!**  
+> A Flask-based machine learning web application that estimates housing prices using multiple regression algorithms — all wrapped in a sleek UI with a **Dark Mode toggle**.  
 
 ---
 
-## 🧰 Tools & Technologies
+## ✨ Features
+- 📊 **Multiple Regression Models** – Linear, Ridge, Lasso, and more.
+- 🖤 **Dark Mode Toggle** – Switch between light & dark themes effortlessly.
+- ⚡ **Real-time Predictions** – Instant results with minimal lag.
+- 📱 **Responsive Design** – Works seamlessly on desktop & mobile.
+- 🧠 **ML-Powered** – Trained on real-world housing datasets.
 
-- **Languages**: Python, SQL
-- **Libraries**: Numpy, Pandas, Matplotlib, Seaborn, Scikit-learn, TensorFlow, PyTorch, OpenCV
-- **Visualization**: Power BI
-- **Platforms**: Google Colab, Jupyter Notebook, Flask
-- **Frameworks**: Keras, YOLOv8, Transformers (BERT), MakerSuite, Azure ML
+---
+
+## 📂 Project Structure
+housing_regressor/
+│
+├── app.py # Flask backend
+├── requirements.txt # Dependencies
+├── static/ # CSS, JS, Images
+│ └── style.css
+├── templates/ # HTML templates
+│ └── index.html
+└── model/ # Trained ML model files
+
+![Screenshot 1](https://github.com/Tanmay1112004/-housing-price-regressor/blob/main/screenshots/Screenshot%202025-08-11%20114339.png?raw=true)
+
+![Your caption](https://github.com/Tanmay1112004/-housing-price-regressor/blob/main/screenshots/Screenshot%202025-08-11%20114339.png?raw=true)
+
+![Screenshot 2](https://github.com/Tanmay1112004/-housing-price-regressor/blob/main/screenshots/Screenshot%202025-08-11%20114432.png?raw=true)
+
 
 ---
 
-## 🚀 Deployment & Projects
+### 1️⃣ Clone the repository
+```bash
+git clone https://github.com/your-username/housing-price-regressor.git
+cd housing-price-regressor
 
-- End-to-end ML Pipelines
-- Model deployment with Flask
-- Real-world Projects:
-  - Sentiment Analysis
-  - Recommendation Engines
-  - Time Series Forecasting
-  - Image Classification (YOLO, CNN)
-  - ChatGPT Integration with OpenAI
+2️⃣ Install dependencie
+pip install -r requirements.txt
 
----
+3️⃣ Run the application
+python app.py
+
+4️⃣ Open in your browser
+http://127.0.0.1:5000
+📸 Screenshots
+
+🛠 Tech Stack
+Backend: Flask (Python)
+
+Frontend: HTML, CSS, JavaScript
+
+Machine Learning: scikit-learn, pandas, numpy
+
+🏆 Why This Project Stands Out
+This isn't just another ML project. It's designed for real-world usability:
+
+Clean, minimal codebase for easy maintenance.
+
+Attractive UI for better UX.
+
+Deployable to Heroku / Render / AWS in minutes.
+
+Beginner-friendly but scalable for production.
+
