@@ -1,69 +1,139 @@
-# 🏠 Housing Price Regressor
-
-> **Predict the future value of homes in style!**  
-> A Flask-based machine learning web application that estimates housing prices using multiple regression algorithms — all wrapped in a sleek UI with a **Dark Mode toggle**.  
+# 🚀 6-Month Full Stack Data Science & AI Roadmap – 2025  
+*From Fundamentals to Production-Ready AI & Full Stack Integration*  
 
 ---
 
-## ✨ Features
-- 📊 **Multiple Regression Models** – Linear, Ridge, Lasso, and more.
-- 🖤 **Dark Mode Toggle** – Switch between light & dark themes effortlessly.
-- ⚡ **Real-time Predictions** – Instant results with minimal lag.
-- 📱 **Responsive Design** – Works seamlessly on desktop & mobile.
-- 🧠 **ML-Powered** – Trained on real-world housing datasets.
+## 🗂 Overview
+This roadmap is your **6-month master plan** to become a **Full Stack Data Scientist & AI Engineer** — integrating **Generative AI** and **Agentic AI** into real-world, production-ready projects.  
+
+You'll learn **Data Analysis → Machine Learning → Deep Learning → AI Agents → Deployment**, with **hands-on projects** at every step.  
 
 ---
 
-## 📂 Project Structure
-housing_regressor/
-│
-├── app.py # Flask backend
-├── requirements.txt # Dependencies
-├── static/ # CSS, JS, Images
-│ └── style.css
-├── templates/ # HTML templates
-│ └── index.html
-└── model/ # Trained ML model files
+## 🗓 Roadmap Timeline
 
-![Screenshot 1](https://github.com/Tanmay1112004/-housing-price-regressor/blob/main/screenshots/Screenshot%202025-08-11%20114339.png?raw=true)
-
-![Your caption](https://github.com/Tanmay1112004/-housing-price-regressor/blob/main/screenshots/Screenshot%202025-08-11%20114339.png?raw=true)
-
-![Screenshot 2](https://github.com/Tanmay1112004/-housing-price-regressor/blob/main/screenshots/Screenshot%202025-08-11%20114432.png?raw=true)
-
+| Month | Focus Area | Key Skills | Mini Project |
+|-------|------------|-----------|--------------|
+| **1** | 🐍 Python, Data Analysis & Visualization | NumPy, Pandas, Data Cleaning, Seaborn, Plotly | Data Insights Dashboard |
+| **2** | 🗄 Databases & EDA | SQL, Feature Engineering, Pandas Pro, EDA techniques | Business Data Analytics |
+| **3** | 🤖 Machine Learning | Regression, Classification, Clustering, Model Metrics | Predictive ML Model |
+| **4** | 🧠 Deep Learning & GenAI | ANN, CNN, RNN, LLMs, Transformers, Ethics | Text/Image GenAI Model |
+| **5** | ⚡ Agentic AI & LangChain | LangChain, Vector DBs, RAG, Multi-Agent Systems | AI Assistant with APIs |
+| **6** | 🌐 Deployment & Capstone | Flask/FastAPI, Streamlit, Docker, Cloud Deployment | End-to-End AI Product |
 
 ---
 
-### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/housing-price-regressor.git
-cd housing-price-regressor
+## 📌 Detailed Learning Plan
 
-2️⃣ Install dependencie
-pip install -r requirements.txt
+### **Month 1 – Python, Data Analysis & Visualization**  
+- Learn Python syntax, data types, and OOP basics  
+- Pandas for data manipulation  
+- Matplotlib, Seaborn, Plotly for data visualization  
+- Basic statistics & probability concepts  
 
-3️⃣ Run the application
-python app.py
+💡 **Project**: *Interactive Data Insights Dashboard*  
 
-4️⃣ Open in your browser
-http://127.0.0.1:5000
-📸 Screenshots
+---
 
-🛠 Tech Stack
-Backend: Flask (Python)
+### **Month 2 – SQL & Exploratory Data Analysis**  
+- Master SQL queries (joins, group by, aggregations)  
+- Pandas advanced functions & group operations  
+- Feature engineering and data wrangling  
+- EDA storytelling with visualizations  
 
-Frontend: HTML, CSS, JavaScript
+💡 **Project**: *Company Data Analytics Report*  
 
-Machine Learning: scikit-learn, pandas, numpy
+---
 
-🏆 Why This Project Stands Out
-This isn't just another ML project. It's designed for real-world usability:
+### **Month 3 – Machine Learning**  
+- Supervised vs Unsupervised Learning  
+- Scikit-learn workflows  
+- Model evaluation metrics (precision, recall, F1)  
+- Regularization & hyperparameter tuning  
 
-Clean, minimal codebase for easy maintenance.
+💡 **Project**: *Sales Forecasting ML Model*  
 
-Attractive UI for better UX.
+---
 
-Deployable to Heroku / Render / AWS in minutes.
+### **Month 4 – Deep Learning & Generative AI**  
+- ANN, CNN, RNN architectures  
+- LLM basics, Transformers, Fine-tuning models  
+- Generative AI with OpenAI / Hugging Face  
+- Ethical AI development  
 
-Beginner-friendly but scalable for production.
+💡 **Project**: *Generative AI Text/Image App*  
 
+---
+
+### **Month 5 – Agentic AI & LangChain**  
+- AI agents with LangChain  
+- Vector Databases: Pinecone, FAISS  
+- Retrieval-Augmented Generation (RAG)  
+- Multi-agent orchestration  
+
+💡 **Project**: *AI Chat Assistant with API Integration*  
+
+---
+
+### **Month 6 – Deployment & Capstone**  
+- Flask/FastAPI backend for model APIs  
+- Streamlit/React frontend for AI apps  
+- Docker containerization  
+- Cloud deployment (AWS, GCP, Azure)  
+
+💡 **Capstone Project**: *Full-Stack AI SaaS Application*  
+
+---
+
+## 📂 Deliverables
+✅ 6-Month Structured Learning Plan  
+✅ Mini Projects & Assignments  
+✅ Capstone Project with Deployment  
+✅ Resume + Portfolio + GitHub Guidance  
+✅ Interview Preparation Kit  
+
+---
+
+## 🏆 Career Outcomes
+After completing this roadmap, you’ll be ready for roles such as:  
+- **Full Stack Data Scientist**  
+- **AI Engineer**  
+- **Machine Learning Engineer**  
+- **Generative AI Developer**  
+
+---
+
+## 🌟 Visual Roadmap
+
+### Emoji Version (Reliable everywhere)
+```mermaid
+graph TD
+A["🐍 Month 1: Python & Data Analysis"] --> B["🗄️ Month 2: SQL & EDA"]
+B --> C["🤖 Month 3: Machine Learning"]
+C --> D["🧠 Month 4: Deep Learning & GenAI"]
+D --> E["🕹️ Month 5: Agentic AI"]
+E --> F["🌐 Month 6: Deployment & Capstone"]
+
+classDef m1 fill:#fff7ed,stroke:#fb923c,stroke-width:2px,color:#0f172a
+classDef m2 fill:#eef2ff,stroke:#6366f1,stroke-width:2px,color:#0f172a
+classDef m3 fill:#ecfeff,stroke:#06b6d4,stroke-width:2px,color:#0f172a
+classDef m4 fill:#f0fdf4,stroke:#22c55e,stroke-width:2px,color:#0f172a
+classDef m5 fill:#fdf4ff,stroke:#a855f7,stroke-width:2px,color:#0f172a
+classDef m6 fill:#eff6ff,stroke:#3b82f6,stroke-width:2px,color:#0f172a
+
+class A m1
+class B m2
+class C m3
+class D m4
+
+Icon Strip (Extra flair)
+<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" title="Month 1"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" title="Month 2"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" title="Month 3"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" title="Month 4"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" width="48" title="Month 5"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" title="Month 6"/> </p>
+
+📬 Connect & Collaborate
+💼 LinkedIn: [https://www.linkedin.com/in/tanmay-kshirsagar]
+🌐 GitHub: [https://github.com/Tanmay1112004]
+📧 Email: [tanmaykshirsagar001@gmail.com]
+
+
+class E m5
+class F m6
