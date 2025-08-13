@@ -103,37 +103,9 @@ After completing this roadmap, you’ll be ready for roles such as:
 
 ---
 
-## 🌟 Visual Roadmap
 
-### Emoji Version (Reliable everywhere)
-```mermaid
-graph TD
-A["🐍 Month 1: Python & Data Analysis"] --> B["🗄️ Month 2: SQL & EDA"]
-B --> C["🤖 Month 3: Machine Learning"]
-C --> D["🧠 Month 4: Deep Learning & GenAI"]
-D --> E["🕹️ Month 5: Agentic AI"]
-E --> F["🌐 Month 6: Deployment & Capstone"]
-
-classDef m1 fill:#fff7ed,stroke:#fb923c,stroke-width:2px,color:#0f172a
-classDef m2 fill:#eef2ff,stroke:#6366f1,stroke-width:2px,color:#0f172a
-classDef m3 fill:#ecfeff,stroke:#06b6d4,stroke-width:2px,color:#0f172a
-classDef m4 fill:#f0fdf4,stroke:#22c55e,stroke-width:2px,color:#0f172a
-classDef m5 fill:#fdf4ff,stroke:#a855f7,stroke-width:2px,color:#0f172a
-classDef m6 fill:#eff6ff,stroke:#3b82f6,stroke-width:2px,color:#0f172a
-
-class A m1
-class B m2
-class C m3
-class D m4
-
-Icon Strip (Extra flair)
-<p align="center"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" width="48" title="Month 1"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="48" title="Month 2"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/scikitlearn/scikitlearn-original.svg" width="48" title="Month 3"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/pytorch/pytorch-original.svg" width="48" title="Month 4"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/langchain/langchain-original.svg" width="48" title="Month 5"/> &nbsp;&nbsp; <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original.svg" width="48" title="Month 6"/> </p>
-
-📬 Connect & Collaborate
 💼 LinkedIn: [https://www.linkedin.com/in/tanmay-kshirsagar]
 🌐 GitHub: [https://github.com/Tanmay1112004]
 📧 Email: [tanmaykshirsagar001@gmail.com]
 
 
-class E m5
-class F m6
