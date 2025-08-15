@@ -1,0 +1,17 @@
+Dataset Link --> http://archive.ics.uci.edu/ml/datasets/Adult 
+
+Business description --> https://www.kaggle.com/vivamoto/us-adult-income-update
+
+script file --> https://www.kaggle.com/apantazo/income-census-adult-xgboost
+logit, svm, knn, dt,nb -- leave xgboost 
+
+
+=============================================================================
+webscraping --> https://www.kaggle.com/aliceadativa/web-scraping-com-python-parte-1
+
+(UCI --> machine learning repository)
+=============================================================================
+
+
+
+
