@@ -1,0 +1,7 @@
+mediapipe==0.10.1
+opencv-python-headless==4.7.0.72
+numpy
+Pillow
+matplotlib
+streamlit
+pandas
