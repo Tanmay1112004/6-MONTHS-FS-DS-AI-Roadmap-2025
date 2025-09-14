@@ -42,7 +42,7 @@ This repository contains a **Jupyter Notebook** that covers **Object-Oriented Pr
 1. Clone the repo:
 
    ```bash
-   git clone https://github.com/<your-username>/<repo-name>.git
+   git clone https://github.com/Tanmay1112004/<repo-name>.git
    cd <repo-name>
    ```
 2. Install Jupyter if not already installed:
