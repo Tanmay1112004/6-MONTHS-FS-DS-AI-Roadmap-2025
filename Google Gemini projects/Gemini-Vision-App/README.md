@@ -17,11 +17,13 @@
 
 ## 🖼️ Screenshots
 
-![Image Analysis](screenshots/image_analysis.png)  
+![Home page](https://github.com/Tanmay1112004/Generative-AI-Journey/blob/main/Generative-AI-Journey/projects/Google%20Gemini%20projects/Gemini-Vision-App/screenshots/Screenshot%202025-09-27%20194030.png)  
 *Image Analysis tab with prompt and uploaded image.*
 
-![Text Q&A](screenshots/text_qa.png)  
+![Image](https://github.com/Tanmay1112004/Generative-AI-Journey/blob/main/Generative-AI-Journey/projects/Google%20Gemini%20projects/Gemini-Vision-App/screenshots/Screenshot%202025-09-27%20194348.png)  
 *Text Q&A tab for pure chatbot experience.*
+
+![Image to text](https://github.com/Tanmay1112004/Generative-AI-Journey/blob/main/Generative-AI-Journey/projects/Google%20Gemini%20projects/Gemini-Vision-App/screenshots/Screenshot%202025-09-27%20194411.png)
 
 ---
 
