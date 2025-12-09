@@ -13,13 +13,12 @@ This project provides an interactive web interface where users can ask questions
 
 ## 📸 Screenshots  
 
-### Chat Interface  
-*(WhatsApp-style chat bubbles for conversation)*  
-![Chat Screenshot](screenshots/chat_ui.png)  
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/BERT-CHATBOT/screenshots/chat_ui.png.png)
 
-### Gradient Background  
-*(Clean gradient background for an attractive UI)*  
-![Gradient Background](screenshots/gradient_bg.png)  
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/BERT-CHATBOT/screenshots/Screenshot%202025-09-17%20111611.png)
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/BERT-CHATBOT/screenshots/gradient_bg.png.png)
+
 
 ## 🚀 Getting Started  
 
