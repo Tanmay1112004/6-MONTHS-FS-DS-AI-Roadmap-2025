@@ -1,17 +1,25 @@
-# 🤖 BERT Chatbot with Streamlit  
+# 🤖 **BERT Chatbot — Streamlit Edition**
 
-A modern **AI-powered chatbot** built using **BERT (Bidirectional Encoder Representations from Transformers)** and **Streamlit**.  
-This project provides an interactive web interface where users can ask questions, and the chatbot responds intelligently using semantic similarity with pre-trained BERT embeddings.  
+A sleek, modern, and production-ready **AI chatbot** powered by **BERT (Bidirectional Encoder Representations from Transformers)** and shipped with a clean, responsive **Streamlit UI**.
+This project delivers an intuitive chat experience using **semantic similarity** on top of **pre-trained BERT embeddings**, enabling smart, context-aware responses.
 
-## ✨ Features
-- 🔥 **BERT-based NLP** for context-aware responses  
-- 🎨 **Beautiful UI with gradient backgrounds & chat bubbles** (WhatsApp-like)  
-- 💬 **Pre-trained Q&A pairs** with cosine similarity matching  
-- ⚡ **Fast inference** using PyTorch  
-- 🖼️ Customizable **backgrounds / gradients / 3D feel**  
-- 🏷️ **Built by Tanmay** 💻  
+---
 
-## 📸 Screenshots  
+## ✨ **Key Features**
+
+* ⚡ **BERT-powered intelligence** for meaningful, context-driven conversations
+* 💬 **Polished chat UI** with gradient backgrounds & WhatsApp-style bubbles
+* 🎨 Fully editable **themes, gradients, and background styling**
+* 🧠 **Pre-trained knowledge base** with cosine similarity response ranking
+* 🚀 Optimized **PyTorch inference** for near-instant replies
+* 🔧 Designed to be **modular, extensible, and beginner-friendly**
+* 🏷️ Crafted with precision by **Tanmay**
+
+---
+
+## 📸 **Screenshots**
+
+> UI snapshots for a quick look under the hood:
 
 ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/BERT-CHATBOT/screenshots/chat_ui.png.png)
 
@@ -19,14 +27,16 @@ This project provides an interactive web interface where users can ask questions
 
 ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/BERT-CHATBOT/screenshots/gradient_bg.png.png)
 
+---
 
-## 🚀 Getting Started  
+## 🚀 **Getting Started**
 
-### 1️⃣ Clone this repo  
+### 1️⃣ Clone the repository
+
 ```bash
 git clone https://github.com/Tanmay1112004/bert-chatbot.git
 cd bert-chatbot
-````
+```
 
 ### 2️⃣ Install dependencies
 
@@ -34,49 +44,61 @@ cd bert-chatbot
 pip install -r requirements.txt
 ```
 
-### 3️⃣ Run in GitHub Codespaces / Local
+### 3️⃣ Run locally or in Codespaces
 
 ```bash
 streamlit run app.py
 ```
 
-## 🛠️ Tech Stack
+---
+
+## 🛠️ **Tech Stack**
 
 * **Python 3.10+**
-* [Streamlit](https://streamlit.io/) – frontend framework
-* [HuggingFace Transformers](https://huggingface.co/transformers/) – BERT model
-* [PyTorch](https://pytorch.org/) – embeddings & inference
-* [scikit-learn](https://scikit-learn.org/) – cosine similarity
-
-## 📚 Predefined Knowledge Base
-
-The bot is trained on a set of common questions like:
-
-* 🤔 *What is AI?*
-* 📊 *What is Data Science?*
-* ☁️ *What is Microsoft Azure?*
-* 🧠 *What is BERT?*
-* 😂 *Tell me a joke*
-* 🙋 *How are you?*
-* … and more!
-
-Easily extendable – just add more Q\&A pairs in `qa_pairs` dictionary.
-
-## 📌 Customization
-
-* Change background: update `set_background()` function in `app.py`
-* Add more questions: edit `qa_pairs` in `app.py`
-* Change threshold for similarity: tweak `if similarities[best_match] > 0.5`
-
-## 📢 Author
-
-👨‍💻 Built with ❤️ by **Tanmay**
-
-* LinkedIn: [Your LinkedIn](https://linkedin.com/in/tanmay-kshirsagar)
-* GitHub: [Your GitHub](https://github.com/Tanmay1112004)
+* **Streamlit** – Modern interactive UI framework
+* **HuggingFace Transformers** – BERT model loading & tokenization
+* **PyTorch** – Embedding generation & model inference
+* **scikit-learn** – Cosine similarity computation
 
 ---
 
-⭐ Don’t forget to **star this repo** if you like it!
+## 📚 **Preloaded Knowledge Base**
 
-```
+The chatbot includes common queries such as:
+
+* 🤖 *What is AI?*
+* 📊 *Explain Data Science.*
+* ☁️ *What is Microsoft Azure?*
+* 🧠 *What is BERT?*
+* 😂 *Tell me a joke.*
+* 🙋 *How are you?*
+
+Extend easily — just add more Q&A pairs inside `qa_pairs` in `app.py`.
+
+---
+
+## 🎛️ **Customization Guide**
+
+* 🎨 **Change Theme/Background**: Modify the `set_background()` function
+* ➕ **Add New Q&A**: Update `qa_pairs` dictionary
+* 🎯 **Adjust Response Sensitivity**: Tune the similarity threshold
+
+  ```python
+  if similarities[best_match] > 0.5:
+  ```
+* 🧪 **Swap Models**: Replace the BERT model name in the `transformers` pipeline
+
+---
+
+## 👨‍💻 **Author**
+
+Built with passion & caffeine by **Tanmay**
+
+* LinkedIn: [tanmay-kshirsagar](https://linkedin.com/in/tanmay-kshirsagar)
+* GitHub: [Tanmay1112004](https://github.com/Tanmay1112004)
+
+---
+
+⭐ If this project adds value, drop a **star** — it keeps the innovation engine running!
+
+---
