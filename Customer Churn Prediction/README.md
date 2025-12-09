@@ -16,6 +16,18 @@ The app provides:
 ✅ **Downloadable Dataset** → Synthetic dataset for exploration & practice
 ✅ **Export Predictions** → Save results as JSON for reporting/business analysis
 ✅ **Model Card & Notes** → Explains model assumptions + guidance on inputs
+--
+# Demo Images
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Customer%20Churn%20Prediction/screenshots/Screenshot%202025-08-28%20112452.png)
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Customer%20Churn%20Prediction/screenshots/Screenshot%202025-08-28%20112643.png)
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Customer%20Churn%20Prediction/screenshots/Screenshot%202025-08-28%20112715.png)
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Customer%20Churn%20Prediction/screenshots/Screenshot%202025-08-28%20112809.png)
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Customer%20Churn%20Prediction/screenshots/Screenshot%202025-08-28%20112825.png)
 
 ---
 
