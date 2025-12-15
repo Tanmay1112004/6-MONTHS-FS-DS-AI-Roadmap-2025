@@ -5,6 +5,12 @@ Upload an image, tweak augmentation parameters (rotation, zoom, shift, shear, fl
 Built with **TensorFlow/Keras** + **Gradio**.
 
 ---
+## DEMO IMG 
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Data%20Augmentation/screenshots/Screenshot%202025-09-02%20083142.png)           
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Data%20Augmentation/screenshots/Screenshot%202025-09-02%20083422.png)            ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Data%20Augmentation/screenshots/Screenshot%202025-09-02%20083557.png)            ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Data%20Augmentation/screenshots/Screenshot%202025-09-02%20083641.png)
+
+---
 
 ## 🚀 Features
 - 📂 Upload any image (JPG/PNG)
@@ -90,15 +96,4 @@ image-data-augmentation-gradio/
 
 PRs and feature requests are welcome! Feel free to fork this repo and enhance the UI/UX or add new augmentation features.
 
----
-
-## 📜 License
-
-MIT License © 2025
-
-```
-
----
-
-👉 Do you also want me to write a **`requirements.txt`** for you (so your repo is plug-and-play), or do you prefer keeping dependencies inside Colab only?
-```
+-
