@@ -1,38 +1,52 @@
+---
+
 # ✨ Image Data Augmentation Playground
 
-This project is a **Gradio-powered interactive app** that lets you visualize and experiment with **image data augmentation** in real time.  
-Upload an image, tweak augmentation parameters (rotation, zoom, shift, shear, flips, fill modes), and instantly preview augmented samples.  
-Built with **TensorFlow/Keras** + **Gradio**.
+An **interactive, Gradio-powered web application** for visualizing and experimenting with **image data augmentation techniques** in real time.
 
----
-## DEMO IMG 
-
-![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Data%20Augmentation/screenshots/Screenshot%202025-09-02%20083142.png)           
-![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Data%20Augmentation/screenshots/Screenshot%202025-09-02%20083422.png)            ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Data%20Augmentation/screenshots/Screenshot%202025-09-02%20083557.png)            ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Data%20Augmentation/screenshots/Screenshot%202025-09-02%20083641.png)
+This tool allows you to upload an image, fine-tune augmentation parameters (rotation, zoom, shifts, shear, flips, and fill modes), and instantly preview multiple augmented samples.
+Built using **TensorFlow / Keras** for augmentation logic and **Gradio** for a clean, intuitive UI.
 
 ---
 
-## 🚀 Features
-- 📂 Upload any image (JPG/PNG)
-- 🎛️ Adjust augmentation parameters:
-  - Rotation range
-  - Width/Height shift
-  - Shear & Zoom
-  - Horizontal flip toggle
-  - Fill modes (`nearest`, `reflect`, `wrap`, `constant`)
-- 🖼️ Live preview with gallery view
-- ⚡ Generates multiple augmented samples at once
-- 🌐 Runs seamlessly in **Google Colab** or locally
+## 🖼️ Demo Preview
+
+<p align="center">
+  <img src="https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Data%20Augmentation/screenshots/Screenshot%202025-09-02%20083142.png" width="45%" />
+  <img src="https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Data%20Augmentation/screenshots/Screenshot%202025-09-02%20083422.png" width="45%" />
+</p>
+
+<p align="center">
+  <img src="https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Data%20Augmentation/screenshots/Screenshot%202025-09-02%20083557.png" width="45%" />
+  <img src="https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Data%20Augmentation/screenshots/Screenshot%202025-09-02%20083641.png" width="45%" />
+</p>
+
+---
+
+## 🚀 Key Features
+
+* 📂 Upload images in **JPG / PNG** format
+* 🎛️ Fully customizable augmentation controls:
+
+  * Rotation range
+  * Width & height shifts
+  * Shear and zoom transformations
+  * Horizontal flip toggle
+  * Multiple fill modes (`nearest`, `reflect`, `wrap`, `constant`)
+* 🖼️ Real-time preview with gallery output
+* ⚡ Generate **multiple augmented samples** in one click
+* 🌐 Works seamlessly **locally** and in **Google Colab**
 
 ---
 
 ## 🛠️ Installation
 
-Clone the repo:
+Clone the repository:
+
 ```bash
-git clone https://github.com/your-username/image-data-augmentation-gradio.git
+git clone https://github.com/Tanmay1112004/image-data-augmentation-gradio.git
 cd image-data-augmentation-gradio
-````
+```
 
 Install dependencies:
 
@@ -42,15 +56,15 @@ pip install -r requirements.txt
 
 ---
 
-## ▶️ Usage
+## ▶️ Running the App
 
-Run the app:
+### Local Execution
 
 ```bash
 python app.py
 ```
 
-Or directly in **Google Colab**:
+### Google Colab
 
 ```python
 !pip install gradio tensorflow --quiet
@@ -61,13 +75,7 @@ import gradio as gr
 import tensorflow as tf
 ```
 
-Then paste the code from `app.py` and launch 🚀.
-
----
-
-## 📸 Demo
-
-<img src="demo/demo.png" width="700">
+Paste the contents of `app.py`, run the cell, and launch the app 🚀.
 
 ---
 
@@ -75,25 +83,30 @@ Then paste the code from `app.py` and launch 🚀.
 
 ```
 image-data-augmentation-gradio/
-│── app.py                # Gradio app code
-│── requirements.txt      # Dependencies
+│── app.py                # Main Gradio application
+│── requirements.txt      # Project dependencies
 │── README.md             # Documentation
-│── demo/                 # Screenshots / GIFs
+│── demo/                 # Screenshots / demo assets
 ```
 
 ---
 
 ## ✅ Requirements
 
-* Python 3.8+
-* TensorFlow 2.x
-* Gradio 4.x
-* NumPy, Pillow
+* Python **3.8+**
+* TensorFlow **2.x**
+* Gradio **4.x**
+* NumPy
+* Pillow
 
 ---
 
 ## 🤝 Contributing
 
-PRs and feature requests are welcome! Feel free to fork this repo and enhance the UI/UX or add new augmentation features.
+Contributions are welcome!
+Feel free to fork the repository, improve the UI/UX, add new augmentation techniques, or optimize performance.
 
--
+If this project helped you, ⭐ the repo — it genuinely helps.
+
+---
+
