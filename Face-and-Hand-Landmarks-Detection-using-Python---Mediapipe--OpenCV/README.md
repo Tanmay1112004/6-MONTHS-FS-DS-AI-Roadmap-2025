@@ -1,117 +1,203 @@
-# Face & Hand Landmarks — Mediapipe + OpenCV + Streamlit
+# 🧠 Face & Hand Landmarks Detection
 
-## Supported Python
-**Only Python 3.10 or 3.11** (Mediapipe wheels may not support 3.12+).
+### Mediapipe • OpenCV • Streamlit
 
----
-## Demo 
-
-![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV/snapshots/snap_20250909_043639.png)                                                                                                                        ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV/snapshots/snap_20250909_043727.png)                                                                                                                        ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV/snapshots/snap_20250909_043929.png)                                                                                                                  ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV/snapshots/snap_20250909_044150.png)                                                                                                            
-
-----
-## Quick run — Local (Ubuntu / WSL recommended)
-1. Install system libs (fixes `libGL.so.1` error):
-   ```bash
-   sudo apt update
-   sudo apt install -y libgl1 libglib2.0-0 ffmpeg
-````
-
-2. Create venv (python3.11):
-
-   ```bash
-   python3.11 -m venv .venv
-   source .venv/bin/activate
-   pip install --upgrade pip
-   pip install -r requirements.txt
-   ```
-
-3. Start app:
-
-   ```bash
-   streamlit run app.py
-   ```
-
-   Open [http://localhost:8501](http://localhost:8501)
+> Real-time **Face & Hand Landmark Detection** using Google **Mediapipe**, powered by **OpenCV** and wrapped in an interactive **Streamlit** web app.
+> Clean UI. Fast inference. Beginner-friendly setup.
 
 ---
 
-## Quick run — GitHub Codespaces
+## 🚀 Features
 
-1. Push this repo to GitHub.
-2. Open the repo → green **Code** button → **Open with Codespaces** → create new Codespace.
-3. Codespace will build using `.devcontainer` (Python 3.11 + system libs installed).
-4. In the Codespaces terminal:
-
-   ```bash
-   streamlit run app.py --server.port 8501 --server.address 0.0.0.0
-   ```
-5. Use the forwarded port UI in Codespaces to open the app in the browser.
-
-**Note:** Codespaces cannot access your laptop webcam as a server device. Use the **Browser webcam (snapshot)** mode — it captures from your browser camera and sends a snapshot to the app.
+* 🔍 **Real-time Face & Hand Landmark Detection**
+* 📷 Supports **Laptop Webcam** & **Browser Webcam (Snapshot Mode)**
+* ⚡ Fast & lightweight using Mediapipe
+* 🌐 Interactive **Streamlit Web App**
+* 🧪 Works locally & on **GitHub Codespaces**
+* 🧩 Clean modular Python code (easy to extend)
 
 ---
 
-## Troubleshooting
+## 🛠 Tech Stack
 
-* `ImportError: libGL.so.1` → install system package `libgl1` (see commands above) OR use `opencv-python-headless` as in requirements.
-* `Mediapipe wheel errors on install` → use Python 3.10 or 3.11; avoid 3.12+.
-* Webcam not showing in Codespaces → use Browser webcam (snapshot) or run locally.
-
-````
+| Tool                  | Purpose                        |
+| --------------------- | ------------------------------ |
+| **Python**            | Core programming language      |
+| **Mediapipe**         | Face & hand landmark detection |
+| **OpenCV**            | Image & video processing       |
+| **Streamlit**         | Web UI                         |
+| **GitHub Codespaces** | Cloud-based dev environment    |
 
 ---
 
-# 6) Step-by-step: exact commands (copy/paste)
+## 🐍 Supported Python Versions
 
-## Local (Ubuntu / WSL)
+> ⚠️ **Important**
+
+* ✅ **Python 3.10 or 3.11 only**
+* ❌ Python 3.12+ is **not supported** (Mediapipe wheels break)
+
+---
+
+## 📸 Demo Screenshots
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV/snapshots/snap_20250909_043639.png)
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV/snapshots/snap_20250909_043727.png)
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV/snapshots/snap_20250909_043929.png)
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV/snapshots/snap_20250909_044150.png)
+
+---
+
+## ⚡ Quick Start — Local (Ubuntu / WSL Recommended)
+
+### 1️⃣ Install System Dependencies
+
+(Fixes `libGL.so.1` error)
+
 ```bash
-# 1. clone repo (if not already)
-git clone <your-repo-url>
-cd face-hand-landmarks
-
-# 2. system deps (fix libGL)
 sudo apt update
 sudo apt install -y libgl1 libglib2.0-0 ffmpeg
+```
 
-# 3. venv + install
+---
+
+### 2️⃣ Create Virtual Environment (Python 3.11)
+
+```bash
 python3.11 -m venv .venv
 source .venv/bin/activate
 pip install --upgrade pip
 pip install -r requirements.txt
+```
 
-# 4. run
+---
+
+### 3️⃣ Run the App
+
+```bash
 streamlit run app.py
-# open http://localhost:8501
-````
+```
 
-## GitHub Codespaces
+👉 Open in browser: **[http://localhost:8501](http://localhost:8501)**
 
-1. Push repo to GitHub.
-2. Open repo → **Code → Open with Codespaces → New codespace**.
-3. Wait for build (uses `.devcontainer`).
-4. In Codespaces terminal:
+---
+
+## ☁️ Quick Start — GitHub Codespaces
+
+Perfect if you don’t want local setup headaches.
+
+### Steps:
+
+1. Push this repo to GitHub
+2. Open repo → **Code → Open with Codespaces → New Codespace**
+3. Codespace auto-builds using `.devcontainer`
+   (Python 3.11 + system libraries preinstalled)
+4. Run inside Codespaces terminal:
 
 ```bash
 streamlit run app.py --server.port 8501 --server.address 0.0.0.0
 ```
 
-5. Click forwarded port 8501 to open app in browser.
+5. Open the **forwarded port 8501** from the Ports tab
 
 ---
 
-# 7) Important notes (read this)
+### 📌 Codespaces Camera Note (Important)
 
-* If you're running inside Codespaces and want **real-time camera** (server camera) you must attach a camera device to that container — that’s messy. The **recommended** workflow:
+🚫 Codespaces **cannot access your laptop webcam directly**.
 
-  * Use **Browser webcam (snapshot)** mode (works in browser → best UX, easy).
-  * Or run the devcontainer locally (VS Code Remote - Containers) with access to `/dev/video0`.
+✅ Use **Browser Webcam (Snapshot Mode)**
+This captures frames from your browser camera and sends them to the app — smooth and reliable.
 
-* If you still see `ImportError: libGL.so.1`, run:
+---
+
+## 🧯 Troubleshooting
+
+### ❌ `ImportError: libGL.so.1`
+
+✔ Fix:
 
 ```bash
-sudo apt-get update && sudo apt-get install -y libgl1
+sudo apt install -y libgl1
 ```
 
-or use the devcontainer above which installs it for you.
+or use `opencv-python-headless` (already included in requirements).
+
+---
+
+### ❌ Mediapipe Installation Errors
+
+✔ Fix:
+
+* Use **Python 3.10 or 3.11**
+* Avoid Python 3.12+
+
+---
+
+### ❌ Webcam Not Working in Codespaces
+
+✔ Fix:
+
+* Use **Browser Webcam (Snapshot Mode)**
+* Or run locally for direct webcam access
+
+---
+
+## 📜 Step-by-Step (Copy–Paste Friendly)
+
+### 🔹 Local Setup (Ubuntu / WSL)
+
+```bash
+# Clone repository
+git clone https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/edit/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV
+cd face-hand-landmarks
+
+# Install system dependencies
+sudo apt update
+sudo apt install -y libgl1 libglib2.0-0 ffmpeg
+
+# Setup virtual environment
+python3.11 -m venv .venv
+source .venv/bin/activate
+pip install --upgrade pip
+pip install -r requirements.txt
+
+# Run application
+streamlit run app.py
+```
+
+Open 👉 **[http://localhost:8501](http://localhost:8501)**
+
+---
+
+### 🔹 GitHub Codespaces
+
+```bash
+streamlit run app.py --server.port 8501 --server.address 0.0.0.0
+```
+
+Open forwarded port **8501**.
+
+---
+
+## 💡 Pro Tips
+
+* For **real-time server webcam**, run locally
+* For **zero-setup demo**, use Codespaces + browser webcam
+* Want to extend?
+
+  * Add gesture recognition ✋
+  * Add face mesh analytics 🧠
+  * Export landmarks to CSV 📊
+
+---
+
+## ⭐ If You Like This Project
+
+* Give it a ⭐ on GitHub
+* Fork it
+* Build something cooler on top of it
+
+**Ship fast. Learn faster. 🚀**
 
 ---
