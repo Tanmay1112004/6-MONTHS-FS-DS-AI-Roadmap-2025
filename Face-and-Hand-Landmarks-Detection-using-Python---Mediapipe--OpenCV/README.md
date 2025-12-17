@@ -4,7 +4,11 @@
 **Only Python 3.10 or 3.11** (Mediapipe wheels may not support 3.12+).
 
 ---
+## Demo 
 
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV/snapshots/snap_20250909_043639.png)                                                                                                                        ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV/snapshots/snap_20250909_043727.png)                                                                                                                        ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV/snapshots/snap_20250909_043929.png)                                                                                                                  ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV/snapshots/snap_20250909_044150.png)                                                                                                            
+
+----
 ## Quick run — Local (Ubuntu / WSL recommended)
 1. Install system libs (fixes `libGL.so.1` error):
    ```bash
