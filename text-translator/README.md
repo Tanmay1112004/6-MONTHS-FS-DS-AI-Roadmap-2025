@@ -19,8 +19,8 @@ Built for **language learners, analysts, and accessibility use cases**, this pro
 
 ## 🚀 Live Demo
 
-> 📸 *Screenshot / Demo GIF coming soon*
-> *Add a screenshot here once the app is running locally or deployed.*
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text-translator/screenshots/Screenshot%202025-08-24%20192524.png)
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text-translator/screenshots/Screenshot%202025-08-24%20192625.png)
 
 ---
 
