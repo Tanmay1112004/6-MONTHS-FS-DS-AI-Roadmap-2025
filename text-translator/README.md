@@ -123,8 +123,6 @@ If this project helped you:
 * 🔁 Share it with your network
 * 💡 Fork it and build something cooler
 
-**Built to solve real problems. Shipped with intent.** 🚀
-
 ---
 
 Just say the word.
