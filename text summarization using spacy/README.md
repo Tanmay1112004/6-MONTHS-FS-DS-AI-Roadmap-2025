@@ -3,7 +3,11 @@
 A fast, lightweight **extractive text summarization** app built with **spaCy** and **Streamlit**. Designed for clean demos, NLP fundamentals, and portfolio showcase — paste text or upload documents to generate concise summaries instantly.
 
 ---
+## Demo Images
 
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20150706.png)                                                                                                                                                   ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20150755.png)                                                                                                                                                   ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20150822.png)                                                                                                                                                   ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20151004.png)
+
+---
 ## 🚀 Overview
 
 This project implements a **classical extractive summarization pipeline** using word-frequency scoring and sentence ranking. It prioritizes **clarity, explainability, and performance**, making it ideal for interviews, demos, and learning NLP basics.
