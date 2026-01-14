@@ -1,40 +1,123 @@
 # 🚗 Object Tracking Streamlit App
 
-An interactive app for object detection + tracking using OpenCV & Streamlit.
+A high-performance **object detection and tracking web app** built using **OpenCV** and **Streamlit**.
+Designed for speed, clarity, and hands-on experimentation with video analytics.
 
-## ✨ Features
-- Upload videos (`.mp4`, `.avi`, `.mov`)
-- Adjust tracking settings:
-  - Frame skip (speed)
-  - Resize width
-  - Minimum object area
-- Progress bar while processing
-- Summary metrics after run
-- Download processed video
+---
 
-## ⚡ Run Locally
+## 🔍 Overview
+
+This app allows you to upload a video, apply object tracking with customizable parameters, and download the processed output — all through an intuitive web interface.
+
+Built for:
+
+* Computer Vision learners
+* Data Science / AI projects
+* Quick demos and experimentation
+
+---
+
+## ✨ Key Features
+
+* 📤 Upload video files (`.mp4`, `.avi`, `.mov`)
+* 🎛️ Adjustable tracking controls:
+
+  * **Frame Skip** – optimize speed vs accuracy
+  * **Resize Width** – control resolution & performance
+  * **Minimum Object Area** – filter noise
+* 📊 Real-time progress bar during processing
+* 📈 Post-processing summary metrics
+* 📥 Download the final processed video
+* 🧼 Clean, minimal, and responsive UI
+
+---
+
+## 🚀 Performance Optimized
+
+This version is **significantly faster** due to:
+
+* 🚫 No live frame rendering (`st.image` removed)
+* ⚡ Frame skipping for faster processing
+* 📐 Dynamic resizing to reduce computation
+* 🧠 Smarter tracking thresholds
+
+Result: **Faster execution, lower memory usage, better UX.**
+
+---
+
+## ⚙️ Run Locally
+
+### 1️⃣ Install Dependencies
+
 ```bash
 pip install -r requirements.txt
+```
+
+### 2️⃣ Start the App
+
+```bash
 streamlit run app.py
+```
 
+### 3️⃣ Open in Browser
 
-App will open at http://localhost:8501
-.
+```text
+http://localhost:8501
+```
 
-🐳 Run in GitHub Codespaces
+---
+
+## 🐳 Run in GitHub Codespaces
+
+### 1️⃣ Install System Dependency
+
+```bash
 sudo apt-get update && sudo apt-get install -y libgl1
+```
+
+### 2️⃣ Install Python Dependencies
+
+```bash
 pip install -r requirements.txt
+```
+
+### 3️⃣ Run Streamlit
+
+```bash
 streamlit run app.py --server.port 8000 --server.address 0.0.0.0
+```
 
+### 4️⃣ Access the App
 
-Then open forwarded port in your browser.
+Open the **forwarded port (8000)** in your browser.
 
+---
+
+## 🧠 Tech Stack
+
+* **Python**
+* **OpenCV**
+* **Streamlit**
+* **NumPy**
 
 ---
 
-⚡ This new version is **much faster** because:  
-- Skips live frame rendering (`st.image`) → only shows final processed video.  
-- Lets you resize + skip frames = control performance.  
-- Adds stats, metrics, and a clean UI.  
+## 📌 Use Cases
+
+* Object tracking demos
+* Computer vision coursework
+* Rapid prototyping
+* Portfolio projects
+* Interview discussions (CV + performance tuning)
 
 ---
+
+## 🤝 Contributions
+
+Pull requests are welcome.
+If you have ideas for new trackers, metrics, or UI improvements — let’s ship it.
+
+---
+
+🔥 **Fast. Clean. Practical.**
+This app keeps things simple while delivering real value.
