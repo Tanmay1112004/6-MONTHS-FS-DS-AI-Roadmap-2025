@@ -4,6 +4,10 @@ A high-performance **object detection and tracking web app** built using **OpenC
 Designed for speed, clarity, and hands-on experimentation with video analytics.
 
 ---
+## Demo images 
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/object-tracking-streamlit-main/screenshots/Screenshot%202025-09-06%20130009.png)                                                                                                                                                  ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/object-tracking-streamlit-main/screenshots/Screenshot%202025-09-06%20130235.png)                                                                                                                                                  ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/object-tracking-streamlit-main/screenshots/Screenshot%202025-09-06%20130304.png)                                                                                                                                                  ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/object-tracking-streamlit-main/screenshots/Screenshot%202025-09-06%20130331.png)
+---
 
 ## 🔍 Overview
 
