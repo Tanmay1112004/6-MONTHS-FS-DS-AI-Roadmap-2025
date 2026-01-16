@@ -7,6 +7,11 @@ A professional, end-to-end web application for parsing, analyzing, cleaning, and
 ![Gradio](https://img.shields.io/badge/UI-Gradio-orange)
 
 ---
+## Demo Images
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/XML%20Data%20Extractor%20and%20Visualizer/screenshots/Screenshot%202025-08-23%20205154.png)                                                                                                                                                ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/XML%20Data%20Extractor%20and%20Visualizer/screenshots/Screenshot%202025-08-23%20205219.png)                                                                                                                                                  ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/XML%20Data%20Extractor%20and%20Visualizer/screenshots/Screenshot%202025-08-23%20205253.png)                                                                                                                                             ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/XML%20Data%20Extractor%20and%20Visualizer/screenshots/Screenshot%202025-08-23%20205315.png)                                                                                                                                             ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/XML%20Data%20Extractor%20and%20Visualizer/screenshots/Screenshot%202025-08-23%20205349.png)                                                                                                                                                  ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/XML%20Data%20Extractor%20and%20Visualizer/screenshots/Screenshot%202025-08-23%20205409.png)                                                                                                                                             ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/XML%20Data%20Extractor%20and%20Visualizer/screenshots/Screenshot%202025-08-23%20205442.png)
+
+---
 
 ## 📌 Overview
 
