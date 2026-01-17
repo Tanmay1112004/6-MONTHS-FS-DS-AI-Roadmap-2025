@@ -6,6 +6,11 @@ Developed with **TensorFlow/Keras** and deployed via **Gradio** for an intuitive
 > Built for clarity, accuracy, and real-world usability.
 
 ---
+## Demo Images
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/mood%20classifiction%20using%20Deep%20learnining%20-%20cnn/screenshots/Screenshot%202025-08-29%20224426.png)                                                                                                          ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/mood%20classifiction%20using%20Deep%20learnining%20-%20cnn/screenshots/Screenshot%202025-08-29%20224855.png)
+
+---
 
 ## 🚀 Key Features
 
