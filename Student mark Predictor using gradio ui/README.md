@@ -5,6 +5,13 @@
 The **Student Mark Prediction Project** is a full-stack Machine Learning application designed to quantify the impact of study time on academic results. By leveraging a refined Linear Regression model, it provides students and educators with an intuitive interface to forecast exam performance.
 
 ---
+## Demo Images
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Student%20mark%20Predictor%20using%20gradio%20ui/screenshots/Screenshot%202025-08-19%20205404.png)
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Student%20mark%20Predictor%20using%20gradio%20ui/screenshots/Screenshot%202025-08-19%20205646.png)
+
+---
 
 ## 🎯 Strategic Impact
 
