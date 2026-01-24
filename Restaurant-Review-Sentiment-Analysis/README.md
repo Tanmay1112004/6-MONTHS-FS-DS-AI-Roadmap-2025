@@ -1,44 +1,69 @@
-# 🍴 Restaurant Review Sentiment Analysis 🤖
+# 🍴 Restaurant Review Sentiment Analysis
 
-This repository contains an **end-to-end NLP pipeline** for analyzing restaurant reviews and predicting customer sentiment (**positive / negative**).
-
-## 🚀 Features
-- ✅ Text preprocessing (cleaning, stopwords removal, stemming)
-- ✅ Feature extraction with **Bag-of-Words (BOW)** and **TF-IDF**
-- ✅ Multiple classifiers:
-  - Logistic Regression
-  - Naive Bayes
-  - SVM (Linear & RBF)
-  - KNN
-  - Decision Tree
-  - Random Forest
-  - Gradient Boosting
-  - **XGBoost**
-  - **LightGBM**
-- ✅ Model evaluation with:
-  - Accuracy, Precision, Recall, F1-score
-  - ROC-AUC
-  - Confusion Matrix & ROC Curves
-- ✅ Cross-validation for robust performance comparison
+An end-to-end **Natural Language Processing (NLP)** pipeline designed to classify customer feedback with high precision. This project transforms raw text data into actionable insights, helping restaurant owners understand customer satisfaction at scale.
 
 ---
 
-## 📊 Dataset
-- **Restaurant_Reviews.tsv**  
-- 1000 restaurant reviews labeled as **Liked (1) / Not Liked (0)**.  
-- Can be scaled to larger datasets (IMDb, Yelp, Amazon Reviews).
+## 🚀 Key Features
+
+* **Advanced Text Preprocessing:** Includes noise reduction, stopword removal, and Porter Stemming to normalize linguistic variations.
+* **Dual Vectorization:** Implements both **Bag-of-Words (BoW)** and **TF-IDF** (Term Frequency-Inverse Document Frequency) for comparative feature engineering.
+* **Extensive Model Zoo:** Benchmarks **9+ Machine Learning algorithms**, ranging from classical statistical models to modern boosting frameworks:
+* Linear & Non-linear: Logistic Regression, SVM (Linear/RBF), KNN.
+* Tree-based: Decision Trees, Random Forest.
+* Boosting: Gradient Boosting, **XGBoost**, **LightGBM**.
+
+
+* **Robust Evaluation:** Comprehensive metrics including F1-Score, ROC-AUC, and Confusion Matrices to ensure model reliability.
 
 ---
 
-## 🛠️ Installation
+## 📊 Dataset Overview
+
+The project utilizes the `Restaurant_Reviews.tsv` dataset, containing **1,000 curated reviews**.
+
+| Feature | Description |
+| --- | --- |
+| **Review** | Raw text feedback from customers. |
+| **Liked** | Binary label: `1` (Positive) |
+| **Scalability** | Architecture is compatible with larger datasets like Yelp, IMDb, or Amazon Reviews. |
+
+---
+
+## 🛠️ Installation & Setup
+
+Get the environment up and running in minutes:
+
 ```bash
-# Clone repo
+# 1. Clone the repository
 git clone https://github.com/your-username/Restaurant-Review-Sentiment-Analysis.git
 cd Restaurant-Review-Sentiment-Analysis
 
-# Create env (optional but recommended)
+# 2. Create and activate a clean virtual environment
 conda create -n nlp_env python=3.12 -y
 conda activate nlp_env
 
-# Install requirements
+# 3. Install dependencies
 pip install -r requirements.txt
+
+```
+
+---
+
+## 📈 Methodology
+
+1. **Data Cleaning:** HTML tags, special characters, and numbers are removed.
+2. **Tokenization:** Breaking down sentences into individual words.
+3. **Vectorization:** Converting text into numerical matrices using  weighting:
+
+
+4. **Training & Tuning:** Hyperparameter optimization via Cross-Validation.
+5. **Validation:** Plotting ROC Curves to visualize the Trade-off between Sensitivity and Specificity.
+
+---
+
+## 📜 License
+
+Distributed under the MIT License. See `LICENSE` for more information.
+
+---
