@@ -1,138 +1,108 @@
-# 🎨 CLIP + VQGAN Text-to-Image Generator
+# 🎨 CLIP + VQGAN: Open-Source Text-to-Image Synthesis
 
-Generate **stunning, high-quality images from plain English prompts** using the power duo of **CLIP** and **VQGAN (Taming Transformers)**.
-No APIs. No paywalls. No vendor lock-in. Just **pure open-source Generative AI**.
-
-This project fuses:
-
-* **CLIP’s semantic understanding** of text
-* **VQGAN’s creative image synthesis**
-
-Result? Text → Art. Simple. Powerful. Fun.
+Transform descriptive text into stunning visual art. This repository leverages **CLIP’s** semantic alignment and **VQGAN’s** high-fidelity image synthesis to provide a fully local, open-source alternative to proprietary AI generators.
 
 ---
 
-## 🚀 Key Highlights
+## 🚀 Key Features
 
-* 🧠 **Text-to-Image Generation** with CLIP + VQGAN
-* ⚡ Uses **pre-trained open-source models**
-* 🖥️ **Streamlit-based UI** for interactive prompt generation
-* ☁️ **Google Colab compatible** with GPU acceleration
-* 🔓 **No API keys or paid services required**
-
-Old-school research meets modern creativity.
+* **Zero-SaaS Dependency:** No API keys, no monthly credits, no vendor lock-in.
+* **Hybrid Architecture:** Combines OpenAI’s CLIP for text understanding with Taming Transformers (VQGAN) for generative output.
+* **Interactive UI:** Built-in Streamlit dashboard for real-time prompt engineering.
+* **Colab Ready:** One-click deployment for users without local GPU resources.
 
 ---
 
 ## 🛠️ Tech Stack
 
-* **Python**
-* **PyTorch**
-* **CLIP**
-* **VQGAN (Taming Transformers)**
-* **Streamlit**
-* **Google Colab**
-
-Battle-tested tools. Zero fluff.
+| Component | Technology | Role |
+| --- | --- | --- |
+| **Language** | Python 3.8+ | Core Logic |
+| **Deep Learning** | PyTorch | Model Backend |
+| **Vision/Text** | CLIP + VQGAN | Generative Backbone |
+| **Deployment** | Streamlit | Web Interface |
+| **Platform** | Google Colab | Cloud Acceleration |
 
 ---
 
-## 📦 Installation
+## 📦 Installation & Setup
 
-### 1️⃣ Clone the Repository
+### 1. Environment Configuration
 
 ```bash
 git clone https://github.com/your-username/clip-vqgan-text2image.git
 cd clip-vqgan-text2image
-```
-
----
-
-### 2️⃣ Install Dependencies
-
-```bash
 pip install -r requirements.txt
+
+```
+
+### 2. Model Weight Management
+
+You must download the pre-trained ImageNet weights. Use the links below and organize your `models` directory as follows:
+
+* 📥 [VQGAN Checkpoint (.ckpt)](https://heibox.uni-heidelberg.de/f/867b05fc8c4841768640/?dl=1)
+* 📥 [VQGAN Config (.yaml)](https://heibox.uni-heidelberg.de/f/274fb24ed38341bfa753/?dl=1)
+
+**Required Directory Structure:**
+
+```text
+.
+└── models/
+    └── vqgan_imagenet_f16_16384/
+        ├── checkpoints/
+        │   └── last.ckpt
+        └── configs/
+            └── model.yaml
+
 ```
 
 ---
 
-### 3️⃣ Download Pre-trained VQGAN Models
+## ▶️ How to Use
 
-Download the required VQGAN files:
+### Local Dashboard (Streamlit)
 
-* 📥 **VQGAN Checkpoint**
-  [https://heibox.uni-heidelberg.de/f/867b05fc8c4841768640/?dl=1](https://heibox.uni-heidelberg.de/f/867b05fc8c4841768640/?dl=1)
-
-* 📥 **VQGAN Config**
-  [https://heibox.uni-heidelberg.de/f/274fb24ed38341bfa753/?dl=1](https://heibox.uni-heidelberg.de/f/274fb24ed38341bfa753/?dl=1)
-
-Place them in the following directory structure:
-
-```
-models/
-└── vqgan_imagenet_f16_16384/
-    ├── checkpoints/
-    │   └── last.ckpt
-    └── configs/
-        └── model.yaml
-```
-
-Structure matters. Models won’t load without it.
-
----
-
-## ▶️ Usage
-
-### 🔹 Run Locally with Streamlit
+Ideal for local machines with NVIDIA GPUs.
 
 ```bash
 streamlit run app.py
+
 ```
 
-* Open the local Streamlit URL
-* Enter a text prompt
-* Watch the model iteratively generate artwork 🎨
+*Enter your prompt in the sidebar and watch the iterative generation process in real-time.*
 
-Instant feedback. Creative chaos.
+### Cloud Notebook (Google Colab)
 
----
+No local GPU? No problem.
 
-### 🔹 Run on Google Colab
-
-1. Open `GenerativeAI_Colab.ipynb`
-2. Enable **GPU runtime**
-3. Run all cells
-4. Enter your text prompt and generate images
-
-Zero setup. Maximum experimentation.
+1. Open `GenerativeAI_Colab.ipynb`.
+2. Select **Runtime > Change runtime type > GPU**.
+3. Run the cells to launch the generation interface.
 
 ---
 
-## 📋 System Requirements
+## 📋 Hardware Requirements
 
-* **Python 3.8+**
-* **PyTorch 1.10+**
-* **CUDA-enabled GPU** (strongly recommended for performance)
-
-CPU works. GPU flies.
+* **Minimum:** 8GB RAM + Quad-core CPU (Slow).
+* **Recommended:** NVIDIA GPU (8GB+ VRAM) with CUDA support.
+* **OS:** Linux, Windows (WSL2), or macOS (M-series support via MPS varies).
 
 ---
 
-## 📄 License
+## 📄 License & Attribution
 
-Licensed under the **MIT License**.
-Free to use, modify, and ship. No strings attached.
+Distributed under the **MIT License**. See `LICENSE` for more information.
+
+*This project builds upon the foundational research of OpenAI (CLIP) and the Taming Transformers team.*
 
 ---
 
-## ⭐ Final Note
+## ⭐ Support the Project
 
-If you’re into **Generative AI, Computer Vision, or creative ML**, this project is a hands-on playground worth exploring.
+If this repository helped you explore the world of Generative AI, please **give it a star!** It helps others find this resource.
 
-Fork it.
-Break it.
-Improve it.
-Ship it.
+**Author:** Tanmay Kshirsagar
 
-And if it helped you — **drop a star ⭐**
-That’s the open-source respect signal 🤝
+**Contact:** [Email](mailto:tanmaykshirsagar001@gmail.com) | [GitHub](https://www.google.com/search?q=https://github.com/your-username)
+
+---
