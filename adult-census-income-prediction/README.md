@@ -1,47 +1,90 @@
-# Adult Census Income Prediction — ML Case Study
+# Adult Census Income Prediction: Binary Classification Case Study
 
-## 📌 Overview
-This project predicts whether an individual's annual income exceeds $50K using demographic and employment attributes from the **UCI Adult Census dataset**.  
-It demonstrates a complete **supervised machine learning workflow**: from data preprocessing to model evaluation and interpretability.
+## 📌 Business Problem & Context
 
-## 🎯 Objectives
-- Load and preprocess the UCI Adult dataset.
-- Perform **Exploratory Data Analysis (EDA)** with visualizations.
-- Build and evaluate two supervised models:
-  - Logistic Regression
-  - Naive Bayes (Multinomial)
-- Compare performance using **ROC-AUC**, **Precision**, **Recall**, and **F1-score**.
-- Interpret the best model’s features to understand income drivers.
+Understanding the socioeconomic factors that drive income levels is critical for policy-making and targeted marketing. This project develops a predictive model to classify individuals into two income brackets ( vs. ) using the **UCI Adult Census Dataset**.
 
-## 🗂 Dataset
-- **Source:** [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Adult)
-- **Target Variable:** `income` (`<=50K` or `>50K`)
+The primary goal is to identify the most significant predictors of high-income earners while maintaining a balance between **model interpretability** and **predictive accuracy**.
 
-## ⚙️ Tech Stack
-- **Language:** Python 3.x
-- **Libraries:** pandas, numpy, matplotlib, scikit-learn, seaborn
+---
 
-## 📊 Project Workflow
-1. **Data Loading & Cleaning** — Handle missing values, clean labels.
-2. **EDA** — Visualize distributions and relationships.
-3. **Feature Engineering** — One-hot encoding, scaling.
-4. **Model Training** — Logistic Regression, Naive Bayes with cross-validation.
-5. **Model Evaluation** — Classification metrics, ROC, PR curves.
-6. **Interpretability** — Coefficient analysis for Logistic Regression.
+## 🛠️ Technical Stack
 
-## 📈 Results
-- Logistic Regression: Balanced performance, strong interpretability.
-- Naive Bayes: Faster but less effective for numeric-heavy features.
-- Key predictors: `capital_gain`, `education_num`, `marital_status`, `hours_per_week`.
+* **Core:** `Python 3.x`
+* **Data Manipulation:** `Pandas`, `NumPy`
+* **Modeling & Metrics:** `Scikit-Learn` (Logistic Regression, Multinomial Naive Bayes)
+* **Visualization:** `Matplotlib`, `Seaborn`
 
-## 🚀 How to Run
+---
+
+## 📊 Methodology & Workflow
+
+The project follows a standard Data Science Lifecycle:
+
+### 1. Data Engineering & Preprocessing
+
+* **Imputation:** Handled missing values (marked as `?` in the dataset) using statistical modes.
+* **Feature Transformation:** Applied **One-Hot Encoding** to categorical variables and **Standard Scaling** to numerical features to ensure convergence for Logistic Regression.
+* **Target Encoding:** Transformed binary labels into numeric format for model consumption.
+
+### 2. Exploratory Data Analysis (EDA)
+
+Performed multivariate analysis to identify feature correlations.
+
+* **Observation:** Significant correlation found between `Education-Num` and `Income`.
+* **Observation:** High variance in `Capital-Gain` indicated the need for robust scaling.
+
+### 3. Model Development & Evaluation
+
+I implemented and compared two distinct algorithms to evaluate the trade-off between speed and performance:
+
+| Metric | Logistic Regression | Naive Bayes |
+| --- | --- | --- |
+| **Accuracy** | *Insert Value*% | *Insert Value*% |
+| **F1-Score** | *Insert Value* | *Insert Value* |
+| **ROC-AUC** | *Insert Value* | *Insert Value* |
+
+---
+
+## 📈 Key Insights & Results
+
+* **Top Predictors:** `Capital-Gain`, `Age`, and `Education-Num` were the strongest positive drivers of income.
+* **Model Performance:** Logistic Regression outperformed Naive Bayes in this high-dimensional space, providing a more reliable **ROC-AUC** curve.
+* **Interpretability:** By analyzing the model coefficients, we can quantify how a unit increase in education level significantly raises the probability of earning .
+
+---
+
+## 📂 Repository Structure
+
+```text
+├── 📓 adult_income_case_study.ipynb  # Comprehensive analysis & modeling
+├── 🧠 final_model_weights.pkl        # (Optional) Saved model weights
+├── 📋 requirements.txt               # Environment dependencies
+└── 📖 README.md                      # Project documentation
+
+```
+
+---
+
+## 🚀 Installation & Execution
+
+1. **Clone the Repo:**
 ```bash
-# Clone the repository
 git clone https://github.com/<your-username>/adult-census-income-prediction.git
-cd adult-census-income-prediction
 
-# Install dependencies
+```
+
+
+2. **Setup Environment:**
+```bash
 pip install -r requirements.txt
 
-# Run the Jupyter notebook
+```
+
+
+3. **Run Analysis:**
+Launch the Jupyter notebook to view the step-by-step implementation:
+```bash
 jupyter notebook adult_income_case_study.ipynb
+
+```
