@@ -1,150 +1,177 @@
-# 🤖 Geminitor
+# 🤖 **Geminitor**
 
-**Geminitor** is a smart, fast, and traceable chatbot powered by **Google Gemini 1.5 Flash** and **LangChain**, with full LLM observability using **LangSmith**.
+### *A Smart, Observable Gemini-Powered Chatbot*
 
-It offers a sleek ChatGPT-like interface built with **Streamlit**, and it even suggests follow-up questions automatically to guide deeper conversations.
+**Geminitor** is a fast, intelligent, and fully traceable conversational AI powered by **Google Gemini 1.5 Flash**, orchestrated with **LangChain**, and monitored end-to-end using **LangSmith (LLMOps)**.
+
+It delivers a **ChatGPT-like user experience** via **Streamlit**, enhanced with **automatic follow-up question suggestions** to drive deeper, more meaningful conversations.
+
+> ⚡ Built for developers who care about performance, observability, and clean UX.
+
+---
+
+## 🌟 Key Highlights
+
+* 🚀 **Ultra-fast responses** using *Gemini 1.5 Flash*
+* 🧠 **Composable LLM pipelines** with LangChain
+* 📊 **Full LLM observability** via LangSmith (requests, traces, latency)
+* 💬 **Modern chat UI** inspired by ChatGPT
+* 🤖 **Smart follow-up question generation**
+* ☁️ **Lightweight & cloud-deployable** (Codespaces / Streamlit Cloud)
 
 ---
 
 ## ✨ Features
 
-- 🔥 Powered by **Gemini 1.5 Flash** (via Google Generative AI API)
-- 🧠 Built using **LangChain**'s composable LLM pipeline
-- 📊 Tracked and monitored with **LangSmith (LLMOps)**
-- 💬 Clean, chat-style interface with **Streamlit**
-- 🤖 Intelligent follow-up suggestions
-- ✅ Lightweight and deployable on Codespaces or Streamlit Cloud
-
+* 🔥 Powered by **Google Gemini 1.5 Flash**
+* 🧩 Modular architecture using **LangChain**
+* 📈 End-to-end tracing with **LangSmith (LLMOps)**
+* 🖥️ Clean, responsive **Streamlit UI**
+* 🧠 Context-aware follow-up suggestions
+* ⚙️ Simple setup & minimal dependencies
 
 ---
+
 ## 📸 Screenshots
 
 ### 💬 Chat Interface
+
 ![Chat Interface](https://github.com/Tanmay1112004/Geminitor--Smart-Gemini-Chatbot-with-LangSmith-Monitoring/raw/main/screenshots/Screenshot%202025-09-24%20125353.png)
 
-### 🤖 LLMOPS
-![Gemini Response](https://github.com/Tanmay1112004/Geminitor--Smart-Gemini-Chatbot-with-LangSmith-Monitoring/raw/main/screenshots/Screenshot%202025-09-24%20125122.png)
+### 📊 LangSmith (LLMOps Monitoring)
 
+![LangSmith](https://github.com/Tanmay1112004/Geminitor--Smart-Gemini-Chatbot-with-LangSmith-Monitoring/raw/main/screenshots/Screenshot%202025-09-24%20125122.png)
 
+---
 
+## 🚀 Getting Started
 
-## 🚀 How to Run
+### 🛠️ Prerequisites
 
-### 🛠️ Requirements
+* Python **3.9+**
+* Google Gemini API Key
+* LangSmith API Key
+
+Install dependencies:
 
 ```bash
 pip install -r requirements.txt
-````
+```
 
-### ✅ Add API Keys
+---
 
-Create a `.env` file or set these environment variables manually:
+### 🔐 Environment Variables
+
+Create a `.env` file in the project root:
 
 ```env
-# Google Gemini API Key
+# Google Gemini API
 GOOGLE_API_KEY=your_google_gemini_api_key
 
-# LangSmith (LLMOps) API Key
+# LangSmith (LLMOps)
 LANGCHAIN_TRACING_V2=true
 LANGCHAIN_API_KEY=your_langsmith_api_key
 LANGCHAIN_PROJECT=Geminitor
 ```
 
-> ⚠️ Never commit your API keys to public repositories.
+> ⚠️ **Security Note:** Never commit API keys to public repositories.
 
 ---
 
-### ▶️ Run the App
+### ▶️ Run Locally
 
 ```bash
 streamlit run main.py
 ```
 
-If you're using GitHub Codespaces:
+### 🧑‍💻 Run on GitHub Codespaces
 
 ```bash
 streamlit run main.py --server.port 7860 --server.address 0.0.0.0
 ```
 
-Then open the forwarded port.
+Open the forwarded port from the Codespaces UI.
 
 ---
 
-## 🧠 Architecture
+## 🧠 System Architecture
 
 ```mermaid
 flowchart TD
-    UI[Streamlit Chat UI] --> LC[LangChain]
+    UI[Streamlit Chat UI] --> LC[LangChain Pipeline]
     LC --> Gemini[Gemini 1.5 Flash]
-    LC --> LangSmith[LangSmith Tracking]
+    LC --> LangSmith[LangSmith Tracing & Monitoring]
 ```
 
-* **Prompt engineering** via `ChatPromptTemplate`
-* **LLM execution** via `ChatGoogleGenerativeAI`
-* **Monitoring** via LangSmith's LangChain integration
+### Architecture Breakdown
+
+* **Prompt Engineering:** `ChatPromptTemplate`
+* **LLM Execution:** `ChatGoogleGenerativeAI`
+* **Observability:** LangSmith + LangChain integration
 
 ---
 
-## 🧩 Built With
+## 🧩 Tech Stack
 
-* [LangChain](https://www.langchain.com/)
-* [Google Generative AI SDK](https://ai.google.dev/)
-* [LangSmith](https://smith.langchain.com/)
-* [Streamlit](https://streamlit.io/)
+* **LLM Framework:** [LangChain](https://www.langchain.com/)
+* **Model:** [Google Gemini 1.5 Flash](https://ai.google.dev/)
+* **LLMOps:** [LangSmith](https://smith.langchain.com/)
+* **Frontend:** [Streamlit](https://streamlit.io/)
 
 ---
 
-## 📄 File Structure
+## 📂 Project Structure
 
 ```bash
 .
-├── main.py              # Main Streamlit app
+├── main.py              # Streamlit application entry point
 ├── requirements.txt     # Python dependencies
-└── README.md            # You're here
+└── README.md            # Project documentation
 ```
 
 ---
 
-## 📦 Deployment Options
+## 📦 Deployment Support
 
-| Platform            | Status                     |
-| ------------------- | -------------------------- |
-| ✅ GitHub Codespaces | Ready                      |
-| ✅ Streamlit Cloud   | Deploy easily              |
-| 🔜 Docker           | Optional container support |
+| Platform            | Status           |
+| ------------------- | ---------------- |
+| ✅ GitHub Codespaces | Supported        |
+| ✅ Streamlit Cloud   | One-click deploy |
+| 🔜 Docker           | Planned          |
 
 ---
 
 ## 🛡️ Disclaimer
 
-This is a demo app for educational and prototyping purposes. Do not expose sensitive data or rely on it for production use without securing your API keys and backend.
+This project is intended for **learning, demos, and prototyping**.
+For production use, ensure:
+
+* Secure key management
+* Backend hardening
+* Rate limiting & access control
 
 ---
 
-## 💡 Author
+## 👨‍💻 Author
 
-Built by Tanmay 🚀
-With love for LLMs, clean UIs, and observability.
+**Tanmay** 🚀
+Built with passion for **LLMs**, **clean UI**, and **LLMOps excellence**.
 
 ---
 
 ## 🏷️ Tags
 
-`#Gemini` `#LangChain` `#LLMOps` `#LangSmith` `#Streamlit` `#Chatbot` `#OpenAIAlt` `#AI`
-
-````
+`#Gemini` `#LangChain` `#LangSmith` `#LLMOps` `#Streamlit`
+`#Chatbot` `#GenerativeAI` `#AIEngineering`
 
 ---
 
-## 📎 Bonus: Add `requirements.txt`
-
-Here's a sample `requirements.txt` file:
+## 📎 Sample `requirements.txt`
 
 ```txt
 streamlit
 langchain
 langchain-google-genai
 google-generativeai
-````
+```
 
----
