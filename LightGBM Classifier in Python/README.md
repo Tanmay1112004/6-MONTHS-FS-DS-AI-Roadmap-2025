@@ -146,7 +146,7 @@ This strengthens model transparency and trustworthiness.
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/your-username/lightgbm-classifier-python.git
+git clone https://github.com/Tanmay1112004/lightgbm-classifier-python.git
 cd lightgbm-classifier-python
 ```
 
