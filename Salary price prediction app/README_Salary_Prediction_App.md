@@ -16,8 +16,6 @@ Simple problem. Strong fundamentals. Real-world execution.
 
 ![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AIzVX5X-_SdVlqQc12wnLKQ.png)
 
-![Image](https://opengraph.githubassets.com/696eba5c10cf3157907ce9488ea862e6d34501bfd994e666a760708329c980a4/yashpandey474/Salary-Prediction-using-Machine-Learning)
-
 ![Image](https://miro.medium.com/1%2AfWKZAMopS6B_ngb-aJac-g.png)
 
 ---
