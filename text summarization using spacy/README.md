@@ -8,6 +8,11 @@ A fast, lightweight **extractive text summarization** app built with **spaCy** a
 ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20150706.png)                                          
 ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20150755.png)                                        
 ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20150822.png)                                            ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20151004.png)
+![Image](https://global.discourse-cdn.com/streamlit/original/3X/8/9/8989c8e916b167efc21cb3d6938a8b44ac17d8af.gif)
+
+![Image](https://cdn.prod.website-files.com/5fdc17d51dc102ed1cf87c05/63d6d35d821bb17b816d8ebf_image23.png)
+
+![Image](https://miro.medium.com/1%2A0LtrN_ZLTjuQOez-cB1q3g.jpeg)
 
 ---
 ## 🚀 Overview
