@@ -5,7 +5,9 @@ A fast, lightweight **extractive text summarization** app built with **spaCy** a
 ---
 ## Demo Images
 
-![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20150706.png)                                                                                                                                                   ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20150755.png)                                                                                                                                                   ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20150822.png)                                                                                                                                                   ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20151004.png)
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20150706.png)                                          
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20150755.png)                                        
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20150822.png)                                            ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20151004.png)
 
 ---
 ## 🚀 Overview
