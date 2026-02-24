@@ -238,9 +238,3 @@ Open to opportunities in:
 * Applied Deep Learning
 
 ---
-
-### Detect in 3D.
-
-### Estimate pose.
-
-### Build spatially intelligent systems. 🚀
