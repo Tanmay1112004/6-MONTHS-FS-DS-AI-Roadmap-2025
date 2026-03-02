@@ -124,12 +124,6 @@ This repo shows not just syntax knowledge, but structured learning progression.
 
 ---
 
-## 🙏 Acknowledgment
-
-Grateful to **Prakash Sir** for mentorship and structured guidance that shaped this learning journey.
-
----
-
 ## 📬 Connect & Collaborate
 
 If you're in Data Science, Analytics, or Engineering — let’s build together.
@@ -138,18 +132,3 @@ If you're in Data Science, Analytics, or Engineering — let’s build together.
 Tanmay – [https://www.linkedin.com/in/tanmay-kshirsagar/](https://www.linkedin.com/in/tanmay-kshirsagar/)
 
 ---
-
-### 🚀 Portfolio Upgrade Tip
-
-If you want this to look even stronger:
-
-* Add JOIN practice examples
-* Add GROUP BY + HAVING case studies
-* Add subqueries & CTEs
-* Add window functions
-* Add query performance explanation
-
-That’s when you move from “learning SQL” to “thinking in SQL.”
-
----
-
