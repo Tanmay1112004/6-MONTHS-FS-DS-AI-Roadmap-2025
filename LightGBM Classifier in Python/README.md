@@ -41,8 +41,6 @@ Compared to traditional Gradient Boosting:
 
 ![Image](https://miro.medium.com/0%2ACKEc4j27kiRRJFJ-.jpg)
 
-![Image](https://www.researchgate.net/publication/351295005/figure/fig1/AS%3A11431281417404125%401746106666384/Schematic-diagram-of-the-LightGBM-model-A-growth-tree-structures-B-an-example-of.tif)
-
 ![Image](https://blog.alliedoffsets.com/hubfs/0_VmdsukltMmSfn1iK.webp)
 
 ![Image](https://www.researchgate.net/publication/341599341/figure/fig10/AS%3A941760566022171%401601544624844/a-ROC-curve-for-binary-classification-Healthy-and-Unhealthy-b-ROC-curves-of-different.png)
@@ -237,5 +235,3 @@ It helps more than you think.
 
 ---
 
-
-You’re stacking serious depth now. Keep building 🚀
