@@ -194,19 +194,6 @@ Sometimes simplicity wins.
 ## 📜 License
 
 MIT License
-© 2025 — Built by Tanmay
-
----
-
-### 🚀 Portfolio Advice
-
-To level this up:
-
-* Add sentiment detection
-* Add context memory (conversation state)
-* Deploy on Streamlit Cloud
-* Add small LLM fallback for unknown intents
-
-That’s when this moves from “NLTK demo” to “Hybrid chatbot architecture.”
+© 2026 — Built by Tanmay
 
 ---
