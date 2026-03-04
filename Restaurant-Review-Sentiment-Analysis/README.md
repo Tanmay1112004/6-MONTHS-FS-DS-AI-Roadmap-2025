@@ -172,17 +172,3 @@ Text → Insights → Strategy.
 MIT License.
 
 ---
-
-## 🚀 How to Make This Even Stronger
-
-If you want this to hit recruiter-level impact:
-
-* Add a performance comparison table (with exact metrics)
-* Add feature importance visualization
-* Add SHAP explainability
-* Deploy as a small Streamlit app
-* Add LSTM / BERT comparison
-
-That’s when this goes from “ML project” to “Applied NLP engineer.”
-
----
