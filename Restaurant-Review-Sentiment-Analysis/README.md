@@ -1,16 +1,3 @@
-Now we’re talking. This is a **proper ML/NLP portfolio project**. Let’s present it like one.
-
-I’ll upgrade your README with:
-
-* Visual sections
-* Stronger structure
-* Cleaner technical positioning
-* Proper model benchmarking narrative
-
-Here’s the enhanced version 👇
-
----
-
 # 🍴 Restaurant Review Sentiment Analysis
 
 > Turning raw customer feedback into data-driven business intelligence using NLP & Machine Learning.
@@ -199,11 +186,3 @@ If you want this to hit recruiter-level impact:
 That’s when this goes from “ML project” to “Applied NLP engineer.”
 
 ---
-
-If you want next:
-
-* I can write a LinkedIn launch post
-* Convert this into resume bullet points
-* Or help you structure an NLP-focused portfolio
-
-Your move. 🚀
