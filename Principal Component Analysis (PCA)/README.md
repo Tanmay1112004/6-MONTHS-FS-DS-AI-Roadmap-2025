@@ -4,6 +4,17 @@ This repository explores **Principal Component Analysis (PCA)**—the gold stand
 
 ---
 
+![Image](https://www.researchgate.net/publication/338833359/figure/fig1/AS%3A851904309522434%401580121223698/A-scree-plot-for-explained-variance-and-eigenvalues-for-the-ten-Principal-Components.png)
+
+![Image](https://scipython.com/media/old_blog/logistic_regression/decision-boundary.png)
+
+![Image](https://www.researchgate.net/publication/315787513/figure/fig1/AS%3A500358129438720%401496306082301/Heatmap-confusion-matrix-showing-binary-classification-results-with-all-five-IMUs-Rows.png)
+
+![Image](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/517/images/sklearn_matrix.png)
+
+
+---
+
 ## 🚀 Project Overview
 
 The objective of this project is to predict whether an individual's income exceeds $50K/yr based on census data. We leverage PCA to reduce noise and redundancy before feeding the data into a classification model.
