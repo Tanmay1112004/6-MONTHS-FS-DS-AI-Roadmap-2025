@@ -1,91 +1,86 @@
-# 🌍 Translingo
+# 🌍 Translingo — Language Translation App
 
-An easy-to-use **Language Translation App** built with **Streamlit**, supporting multiple languages with **text translation + speech (audio output)**.
+![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2AxJhTdjGDNRcN-j2qyx5anA.png)
 
-Translate text instantly into dozens of languages and even download the audio version using Google TTS.
+![Image](https://s3-alpha.figma.com/hub/file/4415086550/21459c74-b594-4e5f-832b-729f667fb308-cover.png)
+
+![Image](https://desk.zoho.com/support/ImageDisplay?blockId=edbsn222dfd3ed86a99f25e396364cb1ebd17f6b7196d712979999e0bf212bb0d9ab5\&downloadType=uploadedFile\&fileName=1701262401571.png\&mode=view\&zgId=edbsn7709df772cce2825696f51e4f4f5fe02)
+
+![Image](https://s3-alpha.figma.com/hub/file/2283677482965153465/38780ab5-fa29-4fae-8909-4a214b0489c8-cover.png)
+
+Learning by building is the real cheat code in tech. So I built **Translingo** — a simple but powerful **Language Translation App** that converts text into **100+ languages** and even generates **audio output** for the translated text.
+
+Built using **Streamlit**, this project focuses on making language translation **fast, accessible, and interactive**.
 
 ---
 
-## ✨ Features
+## 🚀 What the App Can Do
 
 ✅ Translate text into **100+ languages**
-✅ Simple & modern **Streamlit UI**
-✅ **Text-to-Speech (TTS)** for supported languages
-✅ **Download option** for translated audio
-✅ Sidebar for **language selection**
-✅ Fast & lightweight
+✅ Generate **speech output** using **Google Text-to-Speech**
+✅ Download the translated **audio file**
+✅ Simple and clean **Streamlit UI**
+✅ Quick **language selection from sidebar**
+
+Basically: **Type → Translate → Listen → Download**
 
 ---
 
-## 🚀 Installation & Usage
+## ⚙️ Tech Stack
 
-### 1️⃣ Clone the Repo
+* **Python**
+* **Streamlit**
+* **mtranslate**
+* **Google Text-to-Speech**
+* **Pandas**
 
-```bash
-git clone https://github.com/Tanmay1112004/text-translator.git
-cd text-translator
-```
+---
 
-### 2️⃣ Install Requirements
+## 💡 Example
 
-```bash
-pip install -r requirements.txt
-```
+**Input:**
 
-### 3️⃣ Run the App
+> Hello everyone, welcome to my language translation app.
 
-```bash
-streamlit run app.py
-```
+**Output (Hindi):**
 
-The app will open in your browser at 👉 `http://localhost:8501/`
+> सभी को नमस्ते, मेरी भाषा अनुवाद एप में आपका स्वागत है।
+
+🎧 The app also generates an **audio version of the translated text**.
 
 ---
 
 ## 📂 Project Structure
 
-```
+```bash
 text-translator/
- ┣ app.py              # Main Streamlit app
- ┣ language.csv        # Language codes dataset
- ┣ requirements.txt    # Dependencies
- ┗ screenshots/        # App screenshots
+ ┣ app.py
+ ┣ language.csv
+ ┣ requirements.txt
+ ┗ screenshots/
 ```
 
 ---
 
-## 📝 Example Usage
+## 🧠 What I Practiced
 
-### Input
+* Building **interactive data apps**
+* Integrating **translation APIs**
+* Implementing **text-to-speech features**
+* Designing **simple but functional UI with Streamlit**
 
-```
-Hello everyone, welcome to my language translation app.
-```
-
-### Output (Hindi)
-
-```
-सभी को नमस्ते, मेरी भाषा अनुवाद एप में आपका स्वागत है।
-```
-
-🎧 Audio file also available for supported languages.
+Small project. Big learning.
 
 ---
 
-## ⚡ Tech Stack
+## 🔗 Check the Project
 
-* **Python** 🐍
-* **Streamlit** (Frontend + Backend)
-* **mtranslate** (Translation API)
-* **gTTS** (Text-to-Speech)
-* **Pandas** (Language dataset handling)
+If you're interested in **AI, NLP, or building Python apps**, this is a fun project to explore.
 
----
+Let’s connect and build cool things together 🚀
 
-## 🙌 Acknowledgements
-
-* Built with ❤️ using [Streamlit](https://streamlit.io/)
-* Language dataset from `language.csv`
-* Special thanks to open-source community
+#Python #Streamlit #AI #NLP #MachineLearning #OpenSource #BuildInPublic #DataScience
 
 ---
+
+
