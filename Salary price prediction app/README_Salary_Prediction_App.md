@@ -1,7 +1,3 @@
-Your README is already **very strong**. I’ll refine it slightly so it looks even more **portfolio-grade and recruiter-friendly**, while keeping your screenshots and structure clean.
-
----
-
 # 💼 Salary Prediction App
 
 A clean **Machine Learning web application** that predicts **salary based on years of experience** using **Simple Linear Regression (SLR)**.
@@ -179,8 +175,3 @@ If you found this project helpful:
 🚀 Build on top of it
 
 ---
-
-💡 **Quick tip:**
-Out of all your projects, this **Salary Prediction App + Translingo + Sentiment Analysis** combo makes a **very strong ML portfolio**.
-
-If you want, I can also show you **how to arrange all your projects into a perfect GitHub portfolio that impresses recruiters in 10 seconds.**
