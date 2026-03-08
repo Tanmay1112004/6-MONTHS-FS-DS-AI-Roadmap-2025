@@ -145,7 +145,7 @@ Train and compare models quickly inside the notebook.
 ## ⚙️ Installation
 
 ```bash
-git clone https://github.com/your-username/regularization-cheatsheet.git
+git clone https://github.com/Tanmay1112004/regularization-cheatsheet.git
 cd regularization-cheatsheet
 pip install -r requirements.txt
 jupyter notebook Regularization_Guide.ipynb
