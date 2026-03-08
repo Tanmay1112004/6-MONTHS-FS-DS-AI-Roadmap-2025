@@ -6,8 +6,6 @@
 
 ![Image](https://cdn.corporatefinanceinstitute.com/assets/elastic-net1.png)
 
-![Image](https://www.researchgate.net/publication/398765616/figure/fig3/AS%3A11431281796221766%401765936127244/Elastic-net-regression-regularization-paths-Regularization-paths-of-elastic-net.png)
-
 Regularization is one of the **most important techniques in machine learning** to prevent models from memorizing noise.
 
 This repository acts as a **practical cheatsheet + implementation guide** for the three major regularization techniques used in regression models:
