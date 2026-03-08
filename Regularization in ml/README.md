@@ -188,8 +188,3 @@ Found a better visualization or explanation?
 Let’s make machine learning easier to understand.
 
 ---
-
-💡 **Tip for your GitHub:**
-This repo pairs extremely well with your **PCA project**, because PCA + Regularization are **core techniques for controlling model complexity**.
-
-If you want, I can also show you how to combine **all your projects into a single GitHub portfolio README that looks like a professional ML engineer portfolio.**
