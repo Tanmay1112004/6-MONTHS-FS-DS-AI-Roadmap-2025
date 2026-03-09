@@ -1,62 +1,134 @@
 # 🐍 SQL vs. Python: The Data Analysis Face-Off 📊
 
-### 🎯 Project Overview
+![Image](https://learn.microsoft.com/en-us/fabric/data-warehouse/media/sql-query-editor/sql-query-editor-overview.png)
 
-In the world of Data Science, there is often more than one way to solve a problem. This project provides a **comprehensive, side-by-side comparison** of SQL queries and Python (Pandas) code. Using a robust dataset of over **12,000+ rows**, I demonstrate how the two most essential tools in a data analyst's toolkit tackle the same challenges.
+![Image](https://dataplatform.cloud.ibm.com/docs/api/content/wsj/getting-started/images/gs-notebook-cell01.png?context=wx\&locale=en)
 
----
+![Image](https://substackcdn.com/image/fetch/%24s_%21xeDw%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9e53e45-be96-45ff-a2d1-b037d0d25710_1618x804.png)
 
-## 📂 Dataset Snapshot
+![Image](https://media.licdn.com/dms/image/v2/D4D22AQGWBdPAfhMQgA/feedshare-shrink_800/B4DZZl2cN7HIAg-/0/1745465494155?e=2147483647\&t=nMamyVFScKZogcD8knZSISAbWB1EtaYTH_SnuUoNUDM\&v=beta)
 
-The analysis is performed on a rich dataset featuring consumer behavior and environmental factors.
+In Data Analytics, the same problem can often be solved using **multiple tools**.
+Two of the most powerful tools are **SQL** and **Python** with **Pandas**.
 
-* **Scale:** 12,684 Rows × 27 Columns
-* **Key Features:** `Destination`, `Passenger`, `Weather`, `Temperature`, `Time`, `Coupon`, `Occupation`.
+This project provides a **side-by-side comparison** showing how both approaches solve common data analysis tasks using the same dataset.
 
----
-
-## 🧠 Translation Guide: SQL to Pandas
-
-This project serves as a "Rosetta Stone" for data professionals. Whether you are a SQL expert learning Python or vice versa, this mapping covers the essentials:
-
-| Operation | SQL Syntax | Pandas Equivalent |
-| --- | --- | --- |
-| **Selection** | `SELECT col1, col2` | `df[['col1', 'col2']]` |
-| **Preview** | `LIMIT 10` | `df.head(10)` |
-| **Uniques** | `SELECT DISTINCT col` | `df['col'].unique()` |
-| **Filtering** | `WHERE col = 'val'` | `df[df['col'] == 'val']` |
-| **Sorting** | `ORDER BY col DESC` | `df.sort_values('col', ascending=False)` |
-| **Grouping** | `GROUP BY col` | `df.groupby('col').size()` |
-| **Aggregation** | `SUM(col), AVG(col)` | `df.groupby('col').agg(['sum', 'mean'])` |
-| **Merging** | `JOIN table_b ON ...` | `pd.merge(df_a, df_b, on='col')` |
+Think of it as a **translation guide between SQL and Pandas**.
 
 ---
 
-## 🛠️ Tech Stack & Environment
+# 🎯 Project Overview
 
-* **Language:** Python 3.x
-* **Library:** Pandas (for data manipulation)
-* **Platform:** Jupyter Notebook / GitHub
+The goal of this project is to demonstrate how **core data operations** translate between SQL queries and Python data manipulation.
+
+Key focus areas include:
+
+* Data selection
+* Filtering
+* Sorting
+* Grouping
+* Aggregation
+* Data merging
+* Exploratory analysis
+
+Using both tools side-by-side helps analysts understand **when to use SQL and when to use Python**.
 
 ---
 
-## 🚀 Deep Dive into the Code
+# 📂 Dataset Snapshot
 
-Want to see the logic in action? You can explore the full comparison, including complex filters and aggregations, in the interactive notebook:
+The analysis is performed on a dataset containing **consumer behavior and environmental context variables**.
 
-👉 **[View Full Jupyter Notebook](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Comparision_Between_SQL_and_Python.ipynb)**
+| Property     | Details               |
+| ------------ | --------------------- |
+| Rows         | 12,684                |
+| Columns      | 27                    |
+| Domain       | Consumer behavior     |
+| Dataset Size | Medium-scale analysis |
+
+### Important Features
+
+* `Destination`
+* `Passenger`
+* `Weather`
+* `Temperature`
+* `Time`
+* `Coupon`
+* `Occupation`
+
+This variety allows meaningful **grouping, filtering, and aggregation exercises**.
 
 ---
 
-## 🎓 Mentorship
+# 🧠 SQL → Pandas Translation Guide
 
-A special note of gratitude to **Prakash Senapati Sir** for providing the guidance and industry insights necessary to bring this comparison to life.
+| Operation       | SQL                   | Pandas                                   |
+| --------------- | --------------------- | ---------------------------------------- |
+| Selection       | `SELECT col1, col2`   | `df[['col1','col2']]`                    |
+| Preview         | `LIMIT 10`            | `df.head(10)`                            |
+| Distinct Values | `SELECT DISTINCT col` | `df['col'].unique()`                     |
+| Filtering       | `WHERE col='val'`     | `df[df['col']=='val']`                   |
+| Sorting         | `ORDER BY col DESC`   | `df.sort_values('col', ascending=False)` |
+| Grouping        | `GROUP BY col`        | `df.groupby('col').size()`               |
+| Aggregation     | `SUM(), AVG()`        | `df.groupby().agg()`                     |
+| Join            | `JOIN table_b`        | `pd.merge()`                             |
 
-## 🤝 Connect & Collaborate
+This comparison makes it easier for:
 
-I’m always looking to connect with fellow Data Science enthusiasts and professionals.
+* SQL users learning Python
+* Python users learning SQL
+* Data analysts transitioning between tools
 
-* **GitHub:** [@Tanmay1112004](https://www.google.com/search?q=https://github.com/Tanmay1112004)
-* **Keywords:** #Python #SQL #DataAnalysis #Pandas #EDA #DataScience
+---
+
+# 🛠 Tech Stack
+
+* **Python**
+* **Pandas**
+* **Jupyter Notebook**
+* GitHub for version control
+
+---
+
+# 🚀 Explore the Full Notebook
+
+You can view the full side-by-side implementation here:
+
+👉
+[https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Comparision_Between_SQL_and_Python.ipynb](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Comparision_Between_SQL_and_Python.ipynb)
+
+The notebook includes:
+
+* Real queries
+* Equivalent Pandas code
+* Filtering examples
+* Aggregation comparisons
+* Practical use cases
+
+---
+
+# 🎓 Mentorship
+
+Special thanks to **Prakash Senapati** for the guidance and industry insights that helped shape this comparison project.
+
+---
+
+# 🤝 Connect
+
+If you're interested in **Data Analysis, Python, SQL, or Machine Learning**, let's connect.
+
+**GitHub**
+[https://github.com/Tanmay1112004](https://github.com/Tanmay1112004)
+
+---
+
+# 📌 Key Takeaway
+
+Great data analysts know **both SQL and Python**.
+
+* **SQL → best for databases & querying**
+* **Python → best for analysis & modeling**
+
+Master both, and you control the entire data pipeline.
 
 ---
