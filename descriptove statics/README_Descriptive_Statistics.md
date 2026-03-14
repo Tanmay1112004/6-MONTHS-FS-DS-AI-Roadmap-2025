@@ -1,11 +1,3 @@
-![Image](https://www.researchgate.net/publication/261401471/figure/fig1/AS%3A296625936322561%401447732542688/Histogram-between-total-monthly-expenditures-per-household-X-axis-and-the-percentage-of.png)
-
-![Image](https://www.researchgate.net/publication/237135678/figure/fig1/AS%3A299398002167815%401448393454546/A-scatter-plot-of-household-income-and-expenditure-in-Indonesia-and-the-45-degree-line.png)
-
-![Image](https://www.researchgate.net/publication/371417615/figure/fig1/AS%3A11431281166584646%401686305455022/Age-sex-household-size-bar-chart-and-area-plots-and-educational-level-pie-charts.png)
-
-![Image](https://www.researchgate.net/publication/375454872/figure/fig2/AS%3A11431281203679412%401699413493981/Age-and-household-size-distribution-by-simulation-year-and-scenario-medium-bar-low.png)
-
 📊 **Household Descriptive Statistics Analysis — Turning Data into Financial Insights**
 
 Ever wondered what household data can reveal about real financial behavior? 🤔
