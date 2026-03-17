@@ -22,7 +22,7 @@ Designed for backend systems, APIs, microservices, and data-driven applications.
 
 ## 🏗 Architecture Overview
 
-![Image](https://www.researchgate.net/publication/352803770/figure/fig4/AS%3A1080215497383960%401634554852448/Schematic-diagram-of-MySQL-connection-pool.jpg)
+
 
 ![Image](https://miro.medium.com/1%2AnU2n5j4EuBrApI1DWBp1TQ.png)
 
