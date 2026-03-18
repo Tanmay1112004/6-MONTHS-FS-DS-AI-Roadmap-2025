@@ -2,12 +2,6 @@
 
 ![Image](https://media.licdn.com/dms/image/v2/D4D12AQGs8wSD3XtmBg/article-inline_image-shrink_1000_1488/article-inline_image-shrink_1000_1488/0/1719446346476?e=2147483647\&t=k8pwuaAXHNkBoHKn6nDi3kx22lGfypEXOw7sVdIspAQ\&v=beta)
 
-![Image](https://www.researchgate.net/publication/379372174/figure/fig7/AS%3A11431281275870975%401725501512704/The-domain-binary-classification-ROC-curve-plot-using-LSTM-logistic-regression-and.png)
-
-![Image](https://www.researchgate.net/publication/360685654/figure/fig2/AS%3A1157135224307712%401652893944181/Feature-importance-bar-charts-for-several-machine-learning-algorithms.png)
-
-![Image](https://www.researchgate.net/publication/345377656/figure/fig3/AS%3A993853305790466%401613964501902/A-bar-graph-showing-the-feature-importance-of-the-aggregated-feature-set.ppm)
-
 # 📊 Adult Census Income Prediction
 
 ### Binary Classification Case Study | Machine Learning • Statistics • Interpretability
