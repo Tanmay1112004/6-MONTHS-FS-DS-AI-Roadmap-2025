@@ -200,16 +200,6 @@ This project showcases:
 * Socioeconomic research
 
 ---
-
-## 👨‍💻 Author
-
-**Tanmay Kshirsagar**
-Final Year Computer Engineering Student
-
-Interested in AI, Machine Learning, Data Science, and Analytics.
-
----
-
 ## 🤝 Opportunities & Collaboration
 
 Open to:
