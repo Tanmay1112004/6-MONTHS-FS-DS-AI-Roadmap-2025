@@ -165,7 +165,7 @@ adult-census-income-prediction/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/<your-username>/adult-census-income-prediction.git
+git clone https://github.com/Tanmay1112004/adult-census-income-prediction.git
 cd adult-census-income-prediction
 ```
 
