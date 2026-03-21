@@ -74,7 +74,6 @@ This project analyzes key indicators to evaluate:
 
 ### Household Composition
 
-![Bar Chart](https://seaborn.pydata.org/_images/categorical_1_0.png)
 
 ➡️ Households with more earning members tend to show better financial resilience.
 
