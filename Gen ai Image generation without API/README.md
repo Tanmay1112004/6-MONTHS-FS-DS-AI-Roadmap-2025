@@ -59,7 +59,7 @@ This project combines **CLIP’s semantic understanding** with **VQGAN’s high-
 ### 🔹 Clone Repository
 
 ```bash id="6hndt7"
-git clone https://github.com/your-username/clip-vqgan-text2image.git
+git clone https://github.com/Tanmay1112004/clip-vqgan-text2image.git
 cd clip-vqgan-text2image
 ```
 
