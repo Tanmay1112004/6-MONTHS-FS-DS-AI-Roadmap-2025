@@ -216,13 +216,3 @@ Released under the MIT License.
 🔗 LinkedIn: [https://linkedin.com/in/your-profile](https://linkedin.com/in/your-profile)
 
 ---
-
-⭐ If you want, I can also give you:
-
-🔥 LinkedIn post to showcase this project
-🔥 Resume-ready CV project description
-🔥 Portfolio website version
-🔥 Top Computer Vision projects to impress recruiters
-🔥 GitHub profile README makeover
-
-Just say what you want 😎🚀
