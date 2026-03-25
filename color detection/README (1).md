@@ -1,7 +1,3 @@
-Here’s your **Recruiter-Grade, Premium GitHub README** — clean, technical, and portfolio-strong for Computer Vision roles 👁️🧠🚀
-
----
-
 # 🎨 Color Detection Engine — OpenCV + Gradio CV Application
 
 A real-time computer vision system for **color segmentation and object localization**, powered by OpenCV and delivered through an interactive Gradio web interface.
