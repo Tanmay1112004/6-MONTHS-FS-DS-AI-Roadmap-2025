@@ -6,6 +6,14 @@ This project demonstrates a classic yet highly practical CV pipeline using **HSV
 
 ---
 
+## 🖼️ Supported Inputs
+
+📷 Static image upload
+🎥 Real-time webcam stream
+
+
+---
+
 ## ✨ Project Highlights
 
 🎯 Real-time color-based object detection
@@ -88,13 +96,6 @@ color-detection-engine/
 ├── requirements.txt       # Python dependencies
 └── README.md              # Documentation
 ```
-
----
-
-## 🖼️ Supported Inputs
-
-📷 Static image upload
-🎥 Real-time webcam stream
 
 ---
 
