@@ -11,6 +11,8 @@ This project demonstrates a classic yet highly practical CV pipeline using **HSV
 📷 Static image upload
 🎥 Real-time webcam stream
 
+![IMG](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/color%20detection/screenshots/Screenshot%202025-09-04%20142530.png)
+
 
 ---
 
