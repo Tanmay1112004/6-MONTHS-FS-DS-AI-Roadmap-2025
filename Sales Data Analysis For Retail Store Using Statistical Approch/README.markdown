@@ -1,7 +1,3 @@
-Here’s a **clean, recruiter-level, polished README** for your project — structured, impactful, and slightly upgraded to stand out 🔥
-
----
-
 # 📊 Sales Data Analysis for Retail Store 🛒
 
 > **Transforming raw retail data into actionable business insights using statistics & visualization**
