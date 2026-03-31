@@ -182,5 +182,3 @@ Licensed under the **MIT License**
 If this project helped you or inspired your learning, consider giving it a ⭐
 
 ---
-
-If you want next level upgrade (like FAANG-level README with badges, metrics, and visuals), just say **“level up README”** 😄
