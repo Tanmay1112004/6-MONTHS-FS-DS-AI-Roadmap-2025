@@ -20,8 +20,7 @@ This project delivers an **end-to-end statistical analysis pipeline** using Pyth
 
 ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Sales%20Data%20Analysis%20For%20Retail%20Store%20Using%20Statistical%20Approch/app%20screenshots/Screenshot%202025-07-31%20103229.png    )
 
-![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Sales%20Data%20Analysis%20For%20Retail%20Store%20Using% 20Statistical%20Approch/app%20screenshots/Screenshot%202025-07-31%20102243.png)
-
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Sales%20Data%20Analysis%20For%20Retail%20Store%20Using%20Statistical%20Approch/app%20screenshots/Screenshot%202025-07-31%20102243.png)
 ---
 
 ## 🎯 Business Objective
