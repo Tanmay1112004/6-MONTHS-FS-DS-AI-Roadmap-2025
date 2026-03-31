@@ -93,7 +93,7 @@ A synthetic dataset representing retail sales activity:
 ### 1️⃣ Clone Repository
 
 ```bash
-git clone https://github.com/<your-username>/Retail-Sales-Analysis.git
+git clone https://github.com/Tanmay1112004/Retail-Sales-Analysis.git
 cd Retail-Sales-Analysis
 ```
 
