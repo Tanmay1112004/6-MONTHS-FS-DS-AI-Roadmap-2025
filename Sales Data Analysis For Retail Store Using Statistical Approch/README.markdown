@@ -12,6 +12,21 @@ This project delivers an **end-to-end statistical analysis pipeline** using Pyth
 
 ---
 
+## Demo Images
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Sales%20Data%20Analysis%20For%20Retail%20Store%20Using%20Statistical%20Approch/app%20screenshots/Screenshot%202025-07-31%20102059.png   )
+
+![demo]()
+
+![demo]()
+
+![demo]()
+
+![demo]()
+
+
+---
+
 ## 🎯 Business Objective
 
 The goal of this project is to simulate real-world retail analytics by:
