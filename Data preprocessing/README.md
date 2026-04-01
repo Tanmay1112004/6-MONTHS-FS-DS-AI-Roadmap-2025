@@ -1,7 +1,3 @@
-This is already solid 🔥 but I’ll **upgrade it to a more professional + recruiter-impressing version** (clean, crisp, impactful).
-
----
-
 # 🚢 Titanic Data Preprocessing for Machine Learning
 
 > **Great models don’t fix bad data. Clean data does.**
