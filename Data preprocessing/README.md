@@ -8,6 +8,19 @@ Instead of jumping directly into modeling, this project emphasizes the most crit
 
 ---
 
+## Images
+
+![Image](https://miro.medium.com/v2/resize%3Afit%3A1400/1%2Ao9P8Qs_F9fiN04fp7UKuSA.png)
+
+![Image](https://editor.analyticsvidhya.com/uploads/85071Screenshot%20%28147%29.png)
+
+![Image](https://camo.githubusercontent.com/196fbc6986234a1d6289ee2bcd7e72c82531433e/68747470733a2f2f692e696d6775722e636f6d2f4a616c534b79452e706e67)
+
+![Image](https://media.springernature.com/lw400/springer-static/cover-hires/book/978-3-031-30073-8?as=jpg)
+
+
+---
+
 ## 📌 Project Overview
 
 Real-world data is messy. Before building models, it must be **cleaned, structured, and validated**.
