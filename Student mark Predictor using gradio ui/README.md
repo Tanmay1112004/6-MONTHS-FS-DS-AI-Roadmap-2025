@@ -1,7 +1,3 @@
-Alright — this is already solid, but I’m gonna upgrade it into a **clean, recruiter-magnet README** that feels like a real product, not just a college project.
-
----
-
 # 🎓 Student Mark Prediction System
 
 > **Predict academic performance using data — turning study habits into measurable outcomes.**
