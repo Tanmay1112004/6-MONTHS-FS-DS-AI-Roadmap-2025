@@ -8,6 +8,9 @@ A full-stack **Machine Learning web application** that predicts student exam sco
 
 ## 🚀 Demo Preview
 
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Student%20mark%20Predictor%20using%20gradio%20ui/screenshots/Screenshot%202025-08-19%20205404.png)
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Student%20mark%20Predictor%20using%20gradio%20ui/screenshots/Screenshot%202025-08-19%20205646.png)
 
 
 ---
