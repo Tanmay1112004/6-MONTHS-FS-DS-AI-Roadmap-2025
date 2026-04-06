@@ -8,7 +8,7 @@ A full-stack **Machine Learning web application** that predicts student exam sco
 
 ## 🚀 Demo Preview
 
-> *(Add UI screenshots here — input form + prediction result page = instant recruiter attention 👀)*
+
 
 ---
 
