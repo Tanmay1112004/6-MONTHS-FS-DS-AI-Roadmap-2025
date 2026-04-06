@@ -215,12 +215,3 @@ MIT License
 💼 Data Science | ML Engineering | Full Stack
 
 ---
-
-🔥 If you want next level upgrade:
-I can make this into:
-
-* ⭐ **GitHub trending style (badges + animations)**
-* 🎯 **Resume bullet points from this project**
-* 💼 **Interview explanation (how to explain this in HR + tech round)**
-
-Just say: **“upgrade more”** 🚀
