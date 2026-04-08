@@ -12,9 +12,6 @@ Simple problem. Strong fundamentals. Real-world execution.
 
 ## 🚀 Application Preview
 
-![Image](https://media.springernature.com/lw685/springer-static/image/chp%3A10.1007%2F978-981-97-9619-9_17/MediaObjects/635313_1_En_17_Fig3_HTML.png)
-
-![Image](https://user-images.githubusercontent.com/14214659/70992287-02c66980-20d2-11ea-8251-cba6a794a288.png)
 
 
 ---
