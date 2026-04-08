@@ -133,7 +133,7 @@ Grid Search with Cross-Validation.
 ## 🛠️ Installation & Setup
 
 ```bash id="2nt8hz"
-git clone https://github.com/your-username/Restaurant-Review-Sentiment-Analysis.git
+git clone https://github.com/Tanmay1112004/Restaurant-Review-Sentiment-Analysis.git
 cd Restaurant-Review-Sentiment-Analysis
 conda create -n nlp_env python=3.12 -y
 conda activate nlp_env
