@@ -16,8 +16,6 @@ Simple problem. Strong fundamentals. Real-world execution.
 
 ![Image](https://user-images.githubusercontent.com/14214659/70992287-02c66980-20d2-11ea-8251-cba6a794a288.png)
 
-![Image](https://forums.fast.ai/uploads/default/original/3X/9/0/90bd3c29ee850350bc8737b2a83c3ca241fb9420.jpeg)
-
 
 ---
 
