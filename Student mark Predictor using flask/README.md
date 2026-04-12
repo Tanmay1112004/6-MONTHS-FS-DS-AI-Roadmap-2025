@@ -116,7 +116,7 @@ student-mark-predictor/
 
 ```bash id="run123"
 # Clone repo
-git clone https://github.com/your-username/student-mark-predictor.git
+git clone https://github.com//student-mark-predictor.git
 
 # Install dependencies
 pip install -r requirements.txt
