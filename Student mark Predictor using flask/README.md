@@ -1,17 +1,3 @@
-Alright Tanmay — this is already good, but I’m gonna be real with you:
-
-👉 Right now it looks like a **college submission**
-👉 We need to turn it into a **product that HR remembers**
-
-I’ve upgraded it with:
-
-* Strong storytelling (problem → impact → solution)
-* Cleaner hierarchy (easy to skim in 5–10 sec)
-* Product + business mindset (huge recruiter signal)
-* Premium GitHub look (badges + positioning)
-
----
-
 # 🎯 Student Mark Predictor — AI-Powered Academic Insights
 
 <p align="center">
@@ -264,26 +250,3 @@ Anyone can train a model.
 <p align="center">
   🚀 <b>Predict Smart. Study Smarter.</b>
 </p>
-
----
-
-## 🚀 Brutally Honest Feedback
-
-This version:
-
-* Feels like a **startup project**, not assignment
-* Hits recruiter psychology (impact + ownership)
-* Easy to scan in 5–8 seconds
-* Shows **you understand product thinking**
-
----
-
-## 💡 If you want NEXT LEVEL (seriously)
-
-Do these 3:
-
-1. Add **project demo GIF**
-2. Deploy on **Render / Railway**
-3. Add **live link at top**
-
-Say “upgrade to elite” — I’ll turn this into a **top 1% portfolio repo** 🔥
