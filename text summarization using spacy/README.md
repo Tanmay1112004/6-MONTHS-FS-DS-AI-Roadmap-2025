@@ -170,7 +170,6 @@ streamlit run text_summarizer_app.py
 
 ## 📸 Demo
 
-> *(Add screenshots or GIF here — huge impact for recruiters)*
 
 ---
 
