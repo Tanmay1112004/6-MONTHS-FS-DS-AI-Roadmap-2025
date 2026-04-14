@@ -173,6 +173,9 @@ streamlit run text_summarizer_app.py
 
 ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20150706.png)                                          
 
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/text%20summarization%20using%20spacy/screenshots/Screenshot%202025-08-23%20150755.png)                                        
+
+
 ---
 
 ## 📈 Performance Highlights
