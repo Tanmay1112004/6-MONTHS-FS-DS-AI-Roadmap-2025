@@ -169,7 +169,7 @@ Titanic-Data-Preprocessing/
 ## 🚀 How to Run
 
 ```bash id="run77"
-git clone https://github.com//Titanic-Data-Preprocessing-ML.git
+git clone https://github.com/Tanmay/Titanic-Data-Preprocessing-ML.git
 cd Titanic-Data-Preprocessing-ML
 pip install -r requirements.txt
 ```
