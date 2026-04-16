@@ -1,109 +1,178 @@
-# 🍴 Restaurant Review Sentiment Analysis
+# 🍴 Restaurant Review Sentiment Analysis — NLP for Business Intelligence
 
-> Turning raw customer feedback into data-driven business intelligence using NLP & Machine Learning.
+<p align="center">
+  <b>Transform customer reviews into actionable insights using Machine Learning & NLP</b><br>
+  End-to-end sentiment classification system with multi-model benchmarking
+</p>
 
-An end-to-end **Natural Language Processing pipeline** designed to classify restaurant reviews as positive or negative with high precision and strong generalization capability.
+<p align="center">
+  <img src="https://img.shields.io/badge/Python-3.12-blue?style=flat-square"/>
+  <img src="https://img.shields.io/badge/NLP-NLTK-green?style=flat-square"/>
+  <img src="https://img.shields.io/badge/ML-Scikit--learn-orange?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Boosting-XGBoost%20%7C%20LightGBM-yellow?style=flat-square"/>
+  <img src="https://img.shields.io/badge/Focus-Sentiment%20Analysis-brightgreen?style=flat-square"/>
+</p>
 
 ---
 
-## 🖼️ Project Visuals
+## 💡 What This Project Does
 
-### 📊 Model Performance Comparison
+Customer reviews are gold — but only if you can **understand them at scale**.
 
+👉 This project converts raw text reviews into:
+
+* 📊 Sentiment classifications
+* 📈 Model-driven insights
+* 🧠 Actionable business intelligence
 
 ---
 
-## 🚀 Key Features
+## 🚨 Problem Statement
+
+Businesses receive thousands of reviews.
+
+Challenges:
+
+* Hard to manually analyze
+* Hidden patterns in text
+* Delayed response to negative feedback
+
+👉 Result: Missed opportunities & poor customer experience
+
+---
+
+## 🎯 Solution
+
+A scalable **NLP-based sentiment analysis pipeline** that:
+
+✅ Cleans and processes raw text
+✅ Converts text → numerical features
+✅ Trains and compares multiple ML models
+✅ Identifies the best-performing approach
+
+---
+
+## ⚡ Key Features
 
 ### 🧹 Advanced Text Preprocessing
 
-* Noise removal (HTML tags, special characters, numbers)
+* HTML & noise removal
 * Stopword filtering
-* Porter Stemming
-* Lowercasing normalization
+* Porter stemming
+* Lowercase normalization
 
-### 📊 Dual Vectorization Strategy
+### 🔄 Dual Feature Engineering
 
-* **Bag-of-Words (BoW)**
-* **TF-IDF (Term Frequency–Inverse Document Frequency)**
+* Bag-of-Words (BoW)
+* TF-IDF vectorization
+  👉 Enables performance comparison
 
-Comparative analysis to evaluate feature engineering impact.
+### 🧠 Multi-Model Benchmarking
+
+* 9+ ML algorithms tested
+* Consistent evaluation framework
+
+### 📊 Performance Evaluation
+
+* Accuracy, Precision, Recall
+* F1 Score, ROC-AUC
+* Confusion Matrix analysis
 
 ---
 
-## 🧠 Model Benchmarking (9+ Algorithms)
+## 🧠 Why This Project Stands Out (Recruiter POV)
 
-### 📈 Linear & Distance-Based Models
+Most NLP projects:
+👉 Train one model and stop
+
+This project:
+
+✅ Compares multiple algorithms
+✅ Applies proper evaluation metrics
+✅ Shows understanding of **model trade-offs**
+✅ Demonstrates scalable pipeline thinking
+
+👉 Translation: *You think like a data scientist, not just a coder.*
+
+---
+
+## 🧬 Methodology
+
+```id="method55"
+Raw Reviews
+   │
+   ▼
+Text Cleaning & Preprocessing
+   │
+   ▼
+Tokenization
+   │
+   ▼
+Vectorization (BoW / TF-IDF)
+   │
+   ▼
+Model Training (9+ Models)
+   │
+   ▼
+Evaluation & Comparison
+   │
+   ▼
+Best Model Selection
+```
+
+---
+
+## 📊 Models Used
+
+### 📈 Linear & Distance-Based
 
 * Logistic Regression
-* Support Vector Machine (Linear / RBF)
+* Support Vector Machine (Linear & RBF)
 * K-Nearest Neighbors
 
-### 🌳 Tree-Based Models
+### 🌳 Tree-Based
 
 * Decision Tree
 * Random Forest
 
-### 🚀 Boosting Frameworks
+### 🚀 Boosting Models
 
 * Gradient Boosting
 * XGBoost
 * LightGBM
 
-Each model was evaluated using consistent cross-validation protocols.
+---
+
+## 📂 Dataset Overview
+
+* **File**: `Restaurant_Reviews.tsv`
+* **Size**: 1,000 labeled reviews
+
+| Column | Description                            |
+| ------ | -------------------------------------- |
+| Review | Customer feedback text                 |
+| Liked  | Sentiment (1 = Positive, 0 = Negative) |
+
+👉 Easily scalable to real-world datasets (Yelp, Amazon, IMDb)
 
 ---
 
-## 📊 Dataset Overview
+## 🛠 Tech Stack
 
-The project uses `Restaurant_Reviews.tsv` containing **1,000 labeled reviews**.
-
-| Column | Description                                   |
-| ------ | --------------------------------------------- |
-| Review | Customer text feedback                        |
-| Liked  | Binary sentiment (1 = Positive, 0 = Negative) |
-
-The architecture is scalable to larger datasets like Yelp, IMDb, or Amazon Reviews.
-
----
-
-## 📈 Methodology
-
-1️⃣ **Data Cleaning**
-Remove noise and normalize text.
-
-2️⃣ **Tokenization**
-Split text into meaningful word units.
-
-3️⃣ **Vectorization**
-Convert text into numerical representation using BoW & TF-IDF.
-
-4️⃣ **Model Training & Hyperparameter Tuning**
-Grid Search with Cross-Validation.
-
-5️⃣ **Evaluation Metrics**
-
-* Accuracy
-* Precision
-* Recall
-* F1-Score
-* ROC-AUC
-* Confusion Matrix
+| Layer         | Tools             |
+| ------------- | ----------------- |
+| Programming   | Python            |
+| NLP           | NLTK              |
+| ML            | Scikit-learn      |
+| Boosting      | XGBoost, LightGBM |
+| Data Handling | Pandas            |
+| Visualization | Matplotlib        |
 
 ---
 
-## 🎯 Key Outcomes
+## 🚀 Setup & Run
 
-* Compared traditional ML vs boosting methods
-* Identified optimal feature-model combinations
-* Validated model robustness using ROC curves
-* Built scalable NLP pipeline architecture
-
----
-
-## 🛠️ Installation & Setup
-
-```bash id="2nt8hz"
+```bash id="run55"
 git clone https://github.com/Tanmay1112004/Restaurant-Review-Sentiment-Analysis.git
 cd Restaurant-Review-Sentiment-Analysis
 conda create -n nlp_env python=3.12 -y
@@ -113,33 +182,72 @@ pip install -r requirements.txt
 
 ---
 
-## 🧰 Tech Stack
+## 📈 Key Outcomes
 
-* Python 3.12
-* Scikit-learn
-* XGBoost
-* LightGBM
-* NLTK
-* Pandas
-* Matplotlib / Seaborn
+* Identified best-performing model across multiple algorithms
+* Demonstrated impact of feature engineering (BoW vs TF-IDF)
+* Built a reusable NLP pipeline
+* Validated results using multiple evaluation metrics
 
 ---
 
-## 💡 Business Impact
+## 💼 Business Impact
 
-This project demonstrates how restaurants can:
+This system enables businesses to:
 
-* Detect dissatisfaction early
+* Detect negative feedback early
 * Improve service quality
-* Identify recurring complaints
-* Enhance customer retention strategies
+* Identify recurring issues
+* Enhance customer satisfaction
 
-Text → Insights → Strategy.
+👉 Text → Insight → Action
+
+---
+
+## 🔮 Future Enhancements
+
+* [ ] Deep learning models (LSTM / BERT)
+* [ ] Real-time sentiment API
+* [ ] Dashboard visualization
+* [ ] Multi-language support
+* [ ] Deployment on cloud
 
 ---
 
-## 📜 License
+## 🤝 Contributing
 
-MIT License.
+```bash id="contri55"
+git checkout -b feature/improvement
+git commit -m "Improvement added"
+git push origin feature/improvement
+```
 
 ---
+
+## ⭐ Support
+
+If this project helped you:
+
+* ⭐ Star the repo
+* 🍴 Fork it
+* 🚀 Share it
+
+---
+
+## 👨‍💻 Developer Mindset
+
+**From raw text → structured insight → business value**
+
+---
+
+## 🔥 Final Thought
+
+Data is everywhere.
+
+👉 The real skill is turning it into decisions.
+
+---
+
+<p align="center">
+  🍴 <b>Listen to your customers. At scale.</b>
+</p>
