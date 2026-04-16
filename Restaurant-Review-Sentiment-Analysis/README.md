@@ -173,7 +173,7 @@ Best Model Selection
 ## 🚀 Setup & Run
 
 ```bash id="run55"
-git clone https://github.com//Restaurant-Review-Sentiment-Analysis.git
+git clone https://github.com/Tanmay1112004/Restaurant-Review-Sentiment-Analysis.git
 cd Restaurant-Review-Sentiment-Analysis
 conda create -n nlp_env python=3.12 -y
 conda activate nlp_env
