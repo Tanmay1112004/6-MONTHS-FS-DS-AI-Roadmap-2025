@@ -29,6 +29,7 @@ This application detects:
 
 ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Real%20time%20face%20and%20eye%20detection/screenshots/Screenshot%202025-09-03%20192351.png)
 
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Real%20time%20face%20and%20eye%20detection/screenshots/Screenshot%202025-09-03%20192419.png)
 ---
 
 ## 🚨 Problem Statement
