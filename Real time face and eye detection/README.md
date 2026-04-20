@@ -162,13 +162,6 @@ matplotlib
 
 ## 📷 Example Output
 
-![Image](https://miro.medium.com/1%2AXX8WqHo0lyrgZfTTRQ3ESQ.jpeg)
-
-![Image](https://user-images.githubusercontent.com/64009514/106376477-b1ec0000-63bb-11eb-9df8-e903485a832b.jpg)
-
-![Image](https://www.researchgate.net/publication/337829490/figure/fig3/AS%3A834018929045504%401575857016140/The-green-rectangles-show-the-detected-eyes-found-inside-the-red-area.ppm)
-
-![Image](https://www.researchgate.net/publication/353059906/figure/fig7/AS%3A1043114269609985%401625709230083/Eye-detector-using-Haar-cascade-The-green-square-shows-a-False-positive-detection-Also.ppm)
 
 Detected faces are marked in **blue**, and eyes are marked in **green** within the detected face region.
 
