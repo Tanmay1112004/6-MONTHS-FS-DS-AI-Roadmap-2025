@@ -22,7 +22,7 @@ Designed for backend systems, APIs, microservices, and data-driven applications.
 
 ## 🏗 Architecture Overview
 
-![Image](https://miro.medium.com/1%2AnU2n5j4EuBrApI1DWBp1TQ.png)
+
 
 ![Image](https://media.licdn.com/dms/image/v2/D4D12AQHn_FaaW2dRWQ/article-cover_image-shrink_720_1280/article-cover_image-shrink_720_1280/0/1683063399889?e=2147483647\&t=IzWq9CCKo_14s8BEs0T2zm4N35z43vIluJju-HxQDK8\&v=beta)
 
