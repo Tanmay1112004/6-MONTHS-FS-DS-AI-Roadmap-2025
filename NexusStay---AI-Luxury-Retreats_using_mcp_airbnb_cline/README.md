@@ -5,8 +5,11 @@ A stunning, dark-themed luxury property booking platform powered by AI assistanc
 # App Demo
 
 ![demo](https://github.com/Tanmay1112004/NexusStay---AI-Luxury-Retreats/blob/main/screenshots/Screenshot%202025-10-21%20075504.png)
+
 ![demo](https://github.com/Tanmay1112004/NexusStay---AI-Luxury-Retreats/blob/main/screenshots/Screenshot%202025-10-21%20075538.png)
+
 ![demo](https://github.com/Tanmay1112004/NexusStay---AI-Luxury-Retreats/blob/main/screenshots/Screenshot%202025-10-21%20075558.png)
+
 ![demo](https://github.com/Tanmay1112004/NexusStay---AI-Luxury-Retreats/blob/main/screenshots/Screenshot%202025-10-21%20075832.png)
 
 ## ✨ Features
