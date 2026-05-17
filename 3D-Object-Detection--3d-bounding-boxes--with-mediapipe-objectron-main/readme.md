@@ -110,7 +110,7 @@ App launches instantly in browser.
 ### 2️⃣ Clone Repository
 
 ```bash
-git clone <your-repo-url>
+git clone 
 cd <repo>
 ```
 
