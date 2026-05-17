@@ -17,13 +17,13 @@ Clean UI. Practical 3D vision. Interview-ready execution.
 
 ## 📸 Demo Preview
 
-![Image](https://storage.googleapis.com/gweb-research2023-media/original_images/27e18a324ebcf6f4c4d1ecae12713d9f-Figure1.png)
+![Image]()
 
-![Image](https://mediapipe.dev/images/mobile/objectron_cup_android_gpu.gif)
+![Image]()
 
-![Image](https://global.discourse-cdn.com/streamlit/original/3X/5/9/59d97c6244fd32d4c87c1b867e0158e7cffd4633.jpeg)
+![Image]()
 
-![Image](https://global.discourse-cdn.com/streamlit/optimized/2X/4/4a13b644d471572a4cf0b366e361679ac46000bc_2_690x389.jpeg)
+![Image]()
 
 ---
 
