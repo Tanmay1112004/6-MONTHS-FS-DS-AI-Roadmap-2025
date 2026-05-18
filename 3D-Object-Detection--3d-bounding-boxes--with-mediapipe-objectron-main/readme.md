@@ -25,6 +25,7 @@ Clean UI. Practical 3D vision. Interview-ready execution.
 
 ![Image](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/3D-Object-Detection--3d-bounding-boxes--with-mediapipe-objectron-main/screenshots/Screenshot%202025-09-07%20185227.png)
 
+![Image](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/3D-Object-Detection--3d-bounding-boxes--with-mediapipe-objectron-main/screenshots/Screenshot%202025-09-07%20185313.png)
 ---
 
 ## 📌 Project Overview
