@@ -13,6 +13,7 @@ To make it practical (and fun), the model is wrapped inside an **interactive Gra
 ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Next-Word-Generation-LSTM/screenshots/Screenshot%202025-09-17%20205424.png)
 
 ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Next-Word-Generation-LSTM/screenshots/Screenshot%202025-09-17%20205500.png)
+
 ---
 
 ## ✨ Highlights
