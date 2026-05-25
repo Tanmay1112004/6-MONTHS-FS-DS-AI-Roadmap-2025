@@ -8,8 +8,15 @@ A **clean, intuitive multimodal interface** for interacting with **Google’s Ge
 
 ## 🚀 Live Demo (Google Colab)
 
-![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Gemini_Multi_Model_Interface/screen%20shots/Screenshot%202025-08-07%20193125.png)                                                                                                                                                  ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Gemini_Multi_Model_Interface/screen%20shots/Screenshot%202025-08-07%20193152.png)                                                                                                                                                  ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Gemini_Multi_Model_Interface/screen%20shots/Screenshot%202025-08-07%20193208.png)                                                                                                                                     
-![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Gemini_Multi_Model_Interface/screen%20shots/Screenshot%202025-08-07%20193359.png)                                                                                                                                                  ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Gemini_Multi_Model_Interface/screen%20shots/Screenshot%202025-08-07%20193904.png)
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Gemini_Multi_Model_Interface/screen%20shots/Screenshot%202025-08-07%20193125.png) 
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Gemini_Multi_Model_Interface/screen%20shots/Screenshot%202025-08-07%20193152.png) 
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Gemini_Multi_Model_Interface/screen%20shots/Screenshot%202025-08-07%20193208.png) 
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Gemini_Multi_Model_Interface/screen%20shots/Screenshot%202025-08-07%20193359.png)
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Gemini_Multi_Model_Interface/screen%20shots/Screenshot%202025-08-07%20193904.png)
 
 Run it instantly in the cloud—**no local setup required**.
 
