@@ -15,13 +15,6 @@ Run it instantly in the cloud—**no local setup required**.
 
 ---
 
-## 🖼️ Preview
-
-![Demo Screenshot](demo-screenshot.png)
-*Replace with an actual screenshot to boost repo credibility and engagement.*
-
----
-
 ## ✨ Key Features
 
 * 🖊️ **Text generation** powered by **Gemini 1.5 Flash**
