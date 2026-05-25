@@ -44,7 +44,7 @@ This dashboard is designed to be **clean**, **interactive**, and **portfolio-rea
 ### **1. Clone the Repository**
 
 ```bash
-git clone https://github.com/yourusername/churn-dashboard.git
+git clone https://github.com//churn-dashboard.git
 cd churn-dashboard
 ```
 
