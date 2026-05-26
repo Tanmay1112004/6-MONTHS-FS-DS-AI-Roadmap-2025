@@ -12,7 +12,7 @@ It delivers a **ChatGPT-like user experience** via **Streamlit**, enhanced with 
 
 ## 🌟 Key Highlights
 
-* 🚀 **Ultra-fast responses** using *Gemini 1.5 Flash*
+* 🚀 **Ultra-fast responses** using *Gemini 2.5 Flash*
 * 🧠 **Composable LLM pipelines** with LangChain
 * 📊 **Full LLM observability** via LangSmith (requests, traces, latency)
 * 💬 **Modern chat UI** inspired by ChatGPT
