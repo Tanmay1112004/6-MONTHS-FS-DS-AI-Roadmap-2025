@@ -23,6 +23,7 @@ An interactive **AI-powered chatbot** built using **Google Gemini (gemini-2.5-fl
 
 ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Google%20Gemini%20projects/Gemini-AI-Chatbot/screenshots/Screenshot%202025-09-27%20150226.png)
 
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Google%20Gemini%20projects/Gemini-AI-Chatbot/screenshots/Screenshot%202025-09-27%20150501.png)
 ---
 
 ## 🛠️ Technologies Used
