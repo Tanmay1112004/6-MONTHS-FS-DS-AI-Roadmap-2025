@@ -37,7 +37,7 @@ An interactive **AI-powered chatbot** built using **Google Gemini (gemini-2.5-fl
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/YOUR_USERNAME/Gemini-QA-Chatbot.git
+git clone https://github.com//Gemini-QA-Chatbot.git
 cd Gemini-QA-Chatbot
 ````
 
