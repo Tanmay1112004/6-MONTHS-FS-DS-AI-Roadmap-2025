@@ -6,6 +6,13 @@ An end-to-end Machine Learning project that leverages **K-Means Clustering** to 
 
 ---
 
+# Demo Images 
+
+![demo]()
+
+
+---
+
 ## 📌 Project Overview
 
 Customer segmentation is a critical business strategy for understanding customer behavior and maximizing marketing effectiveness.
