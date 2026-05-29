@@ -43,7 +43,7 @@ By analyzing the clusters, we can typically categorize the audience into four or
 ### 1. Clone & Setup
 
 ```bash
-git clone https://github.com/your-username/customer-segmentation-kmeans.git
+git clone https://github.com//customer-segmentation-kmeans.git
 cd customer-segmentation-kmeans
 pip install -r requirements.txt
 
