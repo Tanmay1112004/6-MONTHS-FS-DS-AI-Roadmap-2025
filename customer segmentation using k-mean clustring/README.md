@@ -12,6 +12,7 @@ An end-to-end Machine Learning project that leverages **K-Means Clustering** to 
 
 ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/customer%20segmentation%20using%20k-mean%20clustring/screenshots/Screenshot%202025-08-20%20173322.png)
 
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/customer%20segmentation%20using%20k-mean%20clustring/screenshots/Screenshot%202025-08-20%20173356.png)
 
 ---
 
