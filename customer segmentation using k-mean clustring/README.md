@@ -8,7 +8,7 @@ An end-to-end Machine Learning project that leverages **K-Means Clustering** to 
 
 # Demo Images 
 
-![demo]()
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/customer%20segmentation%20using%20k-mean%20clustring/screenshots/Screenshot%202025-08-20%20163619.png)
 
 
 ---
