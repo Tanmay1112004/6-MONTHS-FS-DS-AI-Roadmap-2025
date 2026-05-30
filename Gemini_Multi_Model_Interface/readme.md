@@ -58,7 +58,7 @@ Fastest way to see results. Zero config headaches.
 ### Option 2: Run Locally
 
 ```bash
-git clone https://github.com/yourusername/gemini-multimodal-interface.git
+git clone https://github.com//gemini-multimodal-interface.git
 cd gemini-multimodal-interface
 pip install -r requirements.txt
 python app.py
