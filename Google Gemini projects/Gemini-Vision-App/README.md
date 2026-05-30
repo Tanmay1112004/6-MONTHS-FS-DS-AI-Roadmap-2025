@@ -32,7 +32,7 @@
 1. **Clone the repository**
 
 ```bash
-git clone https://github.com/yourusername/gemini-vision-app.git
+git clone https://github.com//gemini-vision-app.git
 cd gemini-vision-app
 ````
 
