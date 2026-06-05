@@ -36,13 +36,7 @@ This file is designed to be executed step-by-step for active learning.
 
 ### 📘 2️⃣ Theoretical Foundation (`sql_learning.tex`)
 
-![Image](https://www.filepicker.io/api/file/JTF5Sp7zQUC4JbER127A)
 
-![Image](https://imgv2-1-f.scribdassets.com/img/document/491892867/original/e76aa692a6/1?v=1)
-
-![Image](https://imgv2-2-f.scribdassets.com/img/document/445886876/original/3b21f22802/1?v=1)
-
-![Image](https://imgv2-1-f.scribdassets.com/img/document/817872422/298x396/de9342f505/1737373954?v=1)
 
 A professionally structured **LaTeX-based SQL handbook**, exportable as a clean PDF.
 
