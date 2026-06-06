@@ -67,7 +67,7 @@ The **Explained Variance Plot** (found in `/plots`) illustrates the "elbow" wher
 ### 1. Clone the Repository
 
 ```bash
-git clone https://github.com//pca-logistic-regression-adult-dataset.git
+git clone https://github.com/Tanmay1112004/pca-logistic-regression-adult-dataset.git
 cd pca-logistic-regression-adult-dataset
 
 ```
