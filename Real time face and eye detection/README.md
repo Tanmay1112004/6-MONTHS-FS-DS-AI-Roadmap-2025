@@ -138,7 +138,7 @@ Gradio UI Output
 ## 🚀 Quick Start
 
 ```bash id="runface1"
-git clone https://github.com//face-eye-detection-app.git
+git clone https://github.com/Tanmay1112004/face-eye-detection-app.git
 cd face-eye-detection-app
 pip install -r requirements.txt
 python app.py
