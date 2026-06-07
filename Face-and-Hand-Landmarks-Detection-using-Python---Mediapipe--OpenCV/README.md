@@ -42,8 +42,11 @@
 ## 📸 Demo Screenshots
 
 ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV/snapshots/snap_20250909_043639.png)
+
 ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV/snapshots/snap_20250909_043727.png)
+
 ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV/snapshots/snap_20250909_043929.png)
+
 ![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Face-and-Hand-Landmarks-Detection-using-Python---Mediapipe--OpenCV/snapshots/snap_20250909_044150.png)
 
 ---
