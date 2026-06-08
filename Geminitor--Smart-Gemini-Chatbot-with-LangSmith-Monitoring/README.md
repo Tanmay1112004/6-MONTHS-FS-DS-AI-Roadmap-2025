@@ -10,6 +10,15 @@ It delivers a **ChatGPT-like user experience** via **Streamlit**, enhanced with 
 
 ---
 
+## Demo Images 
+
+![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Geminitor--Smart-Gemini-Chatbot-with-LangSmith-Monitoring/screenshots/Screenshot%202025-09-24%20125050.png)
+
+
+
+
+
+---
 ## 🌟 Key Highlights
 
 * 🚀 **Ultra-fast responses** using *Gemini 2.5 Flash*
