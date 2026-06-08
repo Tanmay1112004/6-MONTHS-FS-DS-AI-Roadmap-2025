@@ -36,11 +36,6 @@ It delivers a **ChatGPT-like user experience** via **Streamlit**, enhanced with 
 
 ### 💬 Chat Interface
 
-![Chat Interface](https://github.com/Tanmay1112004/Geminitor--Smart-Gemini-Chatbot-with-LangSmith-Monitoring/raw/main/screenshots/Screenshot%202025-09-24%20125353.png)
-
-### 📊 LangSmith (LLMOps Monitoring)
-
-![LangSmith](https://github.com/Tanmay1112004/Geminitor--Smart-Gemini-Chatbot-with-LangSmith-Monitoring/raw/main/screenshots/Screenshot%202025-09-24%20125122.png)
 
 ---
 
