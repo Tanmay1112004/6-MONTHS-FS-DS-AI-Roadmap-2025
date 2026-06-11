@@ -6,35 +6,6 @@ Simple by design. Powerful by intent. Zero overengineering.
 
 ---
 
-## 🖼️ Application Preview
-
-### 💬 Chat Interface (Streamlit UI)
-
-![Image](https://i.sstatic.net/MOrd6.png)
-
-![Image](https://miro.medium.com/1%2AZzTd1d-g_ovNoET3hZCyFg.jpeg)
-
-![Image](https://cdn.dribbble.com/userupload/8652650/file/original-d67a5c3daf648b55367ea1305776b6bf.png)
-
-![Image](https://sendbird.imgix.net/cms/Chatbot-UI_Customize-bot.png)
-
-> Clean conversational UI with real-time message rendering and session persistence.
-
----
-
-### 🧠 Rule Engine Logic (NLTK Patterns)
-
-![Image](https://editor.analyticsvidhya.com/uploads/43199nltk_chatbot.jpg)
-
-![Image](https://cdn-images-1.medium.com/max/823/1%2Au4NbHgv-TzEE5G6xXnHCbQ.png)
-
-![Image](https://www.researchgate.net/publication/383561289/figure/fig2/AS%3A11431281274741911%401725039475297/Structure-of-a-Rule-based-chatbot-Horizonte-27.png)
-
-![Image](https://cdn.botpenguin.com/assets/website/Rule_Based_Chatbots_b8f951517c.webp)
-
-> Regex-driven pattern matching using `nltk.chat.util.Chat` for intent recognition and response generation.
-
----
 
 ## ✨ Key Highlights
 
