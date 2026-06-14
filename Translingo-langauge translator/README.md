@@ -1,9 +1,5 @@
 # 🌍 Translingo — Language Translation App
 
-![Image](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Translingo-langauge%20translator/screenshots/Screenshot%202025-08-24%20195604.png)
-
-![Image](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Translingo-langauge%20translator/screenshots/Screenshot%202025-08-24%20195704.png)
-
 Learning by building is the real cheat code in tech. So I built **Translingo** — a simple but powerful **Language Translation App** that converts text into **100+ languages** and even generates **audio output** for the translated text.
 
 Built using **Streamlit**, this project focuses on making language translation **fast, accessible, and interactive**.
