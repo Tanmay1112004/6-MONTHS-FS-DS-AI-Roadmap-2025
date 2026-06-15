@@ -67,6 +67,8 @@ This project is designed to demonstrate:
 
 ![Demo 1](https://github.com/Tanmay1112004/AI-Nexus-Pro/blob/main/screenshots/Screenshot%202025-10-04%20134753.png)
 
+![Demo 2](https://github.com/Tanmay1112004/AI-Nexus-Pro/blob/main/screenshots/Screenshot%202025-10-04%20134854.png)
+
 ---
 
 ## 🛠️ Getting Started
