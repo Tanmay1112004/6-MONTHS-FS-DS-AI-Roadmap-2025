@@ -13,7 +13,6 @@
 and designed for portfolios, demos, and real-world deployment.**
 
 [![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/your-username/ai-nexus-pro)
-[![Streamlit App](https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://your-app.streamlit.app)
 
 </div>
 
