@@ -36,10 +36,6 @@ Compared to traditional Gradient Boosting:
 * Supports early stopping & regularization
 
 ---
-![Image](https://miro.medium.com/0%2ACKEc4j27kiRRJFJ-.jpg)
-
-![Image](https://blog.alliedoffsets.com/hubfs/0_VmdsukltMmSfn1iK.webp)
-
 
 ### Workflow
 
