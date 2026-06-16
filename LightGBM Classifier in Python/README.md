@@ -40,7 +40,6 @@ Compared to traditional Gradient Boosting:
 
 ![Image](https://blog.alliedoffsets.com/hubfs/0_VmdsukltMmSfn1iK.webp)
 
-![Image](https://www.researchgate.net/publication/341599341/figure/fig10/AS%3A941760566022171%401601544624844/a-ROC-curve-for-binary-classification-Healthy-and-Unhealthy-b-ROC-curves-of-different.png)
 
 ### Workflow
 
