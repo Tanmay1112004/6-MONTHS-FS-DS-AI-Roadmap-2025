@@ -44,6 +44,8 @@ Customer reviews are gold — but only if you can **understand them at scale**.
 
 ![Image](https://images.openai.com/static-rsc-4/9Igsajxc-dJB261VQ8x1hqx8i5PGAhs9kL6Yx5JQ8gJSm9cYme5Au9c5dyjQ5ayed7pbxrFgRBvPc0Ha3RIcmeFrMzJdeL1TVgG4saGkw-npCkB0xPGciqY0GZgE_KQFk44QjKLCuy5YZ6C5XxPaklzuxBYyRcOSN45PcrzeZRa4IXCrINdtlwQpD6goB0cg?purpose=fullsize)
 
+![Image](https://images.openai.com/static-rsc-4/AvQlOBOX7jWaInTV6XC3N12Nxn0lz6ZzIZXNjB-V32Ova-F8HeXbwhpewSk9xRC-Vje11v9M5JmeB5-afCSCCL32_E8pWd3rV2zq1IGIs92bGVwotjlXWbO1ZdkDVOlCIAv8NemetQZuDqkIoINVjw8oPYMaKENi2XOoy2NijDMZkRpPpuHj1s5MVlyrCU7x?purpose=fullsize)
+
 
 
 > End-to-end workflow from raw text preprocessing to model evaluation.
