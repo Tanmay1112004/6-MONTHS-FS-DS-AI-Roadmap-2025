@@ -42,17 +42,7 @@ Customer reviews are gold — but only if you can **understand them at scale**.
 
 ### 🔍 NLP Pipeline Flow
 
-![Image](https://images.openai.com/static-rsc-4/9Igsajxc-dJB261VQ8x1hqx8i5PGAhs9kL6Yx5JQ8gJSm9cYme5Au9c5dyjQ5ayed7pbxrFgRBvPc0Ha3RIcmeFrMzJdeL1TVgG4saGkw-npCkB0xPGciqY0GZgE_KQFk44QjKLCuy5YZ6C5XxPaklzuxBYyRcOSN45PcrzeZRa4IXCrINdtlwQpD6goB0cg?purpose=fullsize)
 
-![Image](https://images.openai.com/static-rsc-4/AvQlOBOX7jWaInTV6XC3N12Nxn0lz6ZzIZXNjB-V32Ova-F8HeXbwhpewSk9xRC-Vje11v9M5JmeB5-afCSCCL32_E8pWd3rV2zq1IGIs92bGVwotjlXWbO1ZdkDVOlCIAv8NemetQZuDqkIoINVjw8oPYMaKENi2XOoy2NijDMZkRpPpuHj1s5MVlyrCU7x?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/I8MmVpxHPC32chGlNf9j_J_9h_vXjdGpXq1cmtQLJ96wXMaeR95_0Y_K5nG3Xml60xJdUxL-HZQ5otVEl7wRxHqTSiwWBw4jHYHp6_De-qTLd0iMpXe3WBpzajU8K9HblZFe4QoBCG4pKZXi7W4cmsRvN1z7OoX-pu2kUubrsQw0RO7SMLIpt0oE6s2e1rW_?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/7-KX2XP2q2GforjPrmwCoQGxOHLmJM-HWMSlGtDvzv2HGkbTwqw-araM7pgSqwPGEbBvBaK2aJGB8lkV2F79Fya8Uor3F7uRgMjISTK5N6AwU1PMCw2cxpCFPJvmiSoy8FYrgf8gHu1E1icCSe0U9TUaOiBUa6-ZEsKykZCmU2e8Tk8Qi_rRBAcGnmZRZYcr?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/5lblSQK6juHA_Xbd7SnytrqWWTD45FcmSCELrjlQin50Fqhj1zVwBJNY3up2uMKSslFcqLa21zY7KDj0i32mu9qhAstMBLGIwD1BPo0pcIueucCenQ_w0o0Z6xn9Kv0AdAKd-Ey__dgo4cUGKqndeZnMZVx0ec68l9fgH1LINL33hi3pXUOxvZz01Ot77TdR?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/QCFRQIF3pfOFfsQV4_PjeGXgBQRDtOBDWURmx0D8mya_GvaPSuZiEzbUIIegaqZlPtkzqnQM1E-mzvJbCiWKOpDej8BRCf2MowTPuf1qNReT5JEfDsgBioPlturtJ0mA4WZbmQmDGWT854HGrmSxBWCiWtAS7ffOJAnuG4vXgR1FqqAt28Xlg7GU7-12RW5r?purpose=fullsize)
 
 > End-to-end workflow from raw text preprocessing to model evaluation.
 
