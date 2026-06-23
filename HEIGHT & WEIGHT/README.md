@@ -51,6 +51,11 @@ Minimal structure. Easy to understand. Zero clutter.
 
 ### Height Input Screen
 
+![Height Input](https://github.com/Tanmay1112004/weight-prediction-app/blob/main/HEIGHT%20%26%20WEIGHT/screenshots/Screenshot%202025-08-11%20125941.png?raw=true)
+
+### Prediction Result Screen
+
+![Prediction Result](https://github.com/Tanmay1112004/weight-prediction-app/blob/main/HEIGHT%20%26%20WEIGHT/screenshots/Screenshot%202025-08-11%20130119.png?raw=true)
 
 ---
 
