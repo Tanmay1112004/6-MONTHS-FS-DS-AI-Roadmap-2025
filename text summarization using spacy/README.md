@@ -24,6 +24,18 @@ Paste any text → Get a **clean, concise summary in seconds**
 
 ---
 
+## Demo Images 
+
+![demo]()
+
+![demo]()
+
+![demo]()
+
+![demo]()
+
+---
+
 ## 🚨 Problem Statement
 
 People deal with:
