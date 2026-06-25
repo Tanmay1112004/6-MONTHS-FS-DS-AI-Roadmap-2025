@@ -44,7 +44,7 @@ Built using **TensorFlow / Keras** for augmentation logic and **Gradio** for a c
 Clone the repository:
 
 ```bash
-git clone https://github.com/Tanmay1112004/image-data-augmentation-gradio.git
+git clone https://github.com//image-data-augmentation-gradio.git
 cd image-data-augmentation-gradio
 ```
 
