@@ -11,15 +11,6 @@ Built using **TensorFlow / Keras** for augmentation logic and **Gradio** for a c
 
 ## 🖼️ Demo Preview
 
-<p align="center">
-  <img src="https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Data%20Augmentation/screenshots/Screenshot%202025-09-02%20083142.png" width="45%" />
-  <img src="https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Data%20Augmentation/screenshots/Screenshot%202025-09-02%20083422.png" width="45%" />
-</p>
-
-<p align="center">
-  <img src="https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Data%20Augmentation/screenshots/Screenshot%202025-09-02%20083557.png" width="45%" />
-  <img src="https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Data%20Augmentation/screenshots/Screenshot%202025-09-02%20083641.png" width="45%" />
-</p>
 
 ---
 
