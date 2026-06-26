@@ -8,7 +8,9 @@ Built using **Streamlit**, this project focuses on making language translation *
 
 ## Demo Images 
 
+![Image](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Translingo-langauge%20translator/screenshots/Screenshot%202025-08-24%20195604.png)
 
+![Image](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Translingo-langauge%20translator/screenshots/Screenshot%202025-08-24%20195704.png)
 
 ---
 
