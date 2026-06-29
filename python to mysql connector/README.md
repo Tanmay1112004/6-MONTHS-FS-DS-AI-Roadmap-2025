@@ -27,6 +27,7 @@ Designed for backend systems, APIs, microservices, and data-driven applications.
 
 ![Image](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/python%20to%20mysql%20connector/screenshots/Screenshot%202025-08-14%20184655.png)
 
+---
 
 ### Execution Flow
 
