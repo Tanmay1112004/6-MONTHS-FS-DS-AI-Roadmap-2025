@@ -157,3 +157,5 @@ This project is licensed under the **MIT License**.
 ---
 
 **Bottom line:** XML is old-school, but the insights don’t have to be. This tool modernizes XML analysis without overengineering. Clean input. Clear output. Real value. 💼📊
+
+---
