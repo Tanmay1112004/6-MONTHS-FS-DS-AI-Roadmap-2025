@@ -65,7 +65,7 @@ Minimal structure. Easy to understand. Zero clutter.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Tanmay1112004/weight-prediction-app.git
+git clone https://github.com//weight-prediction-app.git
 cd weight-prediction-app
 ```
 
