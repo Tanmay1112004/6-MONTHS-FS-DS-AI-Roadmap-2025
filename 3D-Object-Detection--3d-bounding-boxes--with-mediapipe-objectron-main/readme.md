@@ -125,7 +125,7 @@ App launches instantly in browser.
 
 ```bash
 git clone 
-cd <repo>
+cd 3D-Object-Detection--3d-bounding-boxes--with-mediapipe-objectron-main
 ```
 
 ### 3️⃣ Create Virtual Environment
