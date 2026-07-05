@@ -1,14 +1,12 @@
 # 🎯 Machine Learning Regularization — Ridge, Lasso & Elastic Net
 
-![Image](https://www.stanford.edu/class/stats202/figs/Chapter6/6.4.png)
-
-![Image](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/593/images/Line-graph-alphas-lasso-regression.png)
-
-![Image](https://cdn.corporatefinanceinstitute.com/assets/elastic-net1.png)
-
 Regularization is one of the **most important techniques in machine learning** to prevent models from memorizing noise.
 
 This repository acts as a **practical cheatsheet + implementation guide** for the three major regularization techniques used in regression models:
+
+![Image](https://www.stanford.edu/class/stats202/figs/Chapter6/6.4.png)
+
+
 
 * **Ridge Regression (L2)**
 * **Lasso Regression (L1)**
