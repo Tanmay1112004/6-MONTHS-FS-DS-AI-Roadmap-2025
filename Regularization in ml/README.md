@@ -8,7 +8,7 @@ This repository acts as a **practical cheatsheet + implementation guide** for th
 
 ![Image](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/593/images/Line-graph-alphas-lasso-regression.png)
 
-
+![Image](https://cdn.corporatefinanceinstitute.com/assets/elastic-net1.png)
 
 
 * **Ridge Regression (L2)**
