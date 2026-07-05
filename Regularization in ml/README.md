@@ -6,6 +6,9 @@ This repository acts as a **practical cheatsheet + implementation guide** for th
 
 ![Image](https://www.stanford.edu/class/stats202/figs/Chapter6/6.4.png)
 
+![Image](https://cf-courses-data.s3.us.cloud-object-storage.appdomain.cloud/593/images/Line-graph-alphas-lasso-regression.png)
+
+
 
 
 * **Ridge Regression (L2)**
