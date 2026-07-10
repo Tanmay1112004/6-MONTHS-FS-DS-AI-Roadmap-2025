@@ -73,7 +73,7 @@ XML is powerful but messy. This project streamlines the entire XML workflow, fro
 1. Clone the repository:
 
 ```bash
-git clone https://github.com//xml-data-extractor.git
+git clone https://github.com//Tanmay1112004xml-data-extractor.git
 cd xml-data-extractor
 ```
 
