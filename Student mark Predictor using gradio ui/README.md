@@ -127,7 +127,7 @@ student-mark-prediction/
 ### 🔹 1. Clone Repository
 
 ```bash
-git clone https://github.com/your-username/student-mark-prediction.git
+git clone https://github.com//student-mark-prediction.git
 cd student-mark-prediction
 ```
 
