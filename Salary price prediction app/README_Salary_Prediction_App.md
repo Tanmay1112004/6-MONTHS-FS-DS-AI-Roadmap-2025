@@ -12,7 +12,7 @@ Simple problem. Strong fundamentals. Real-world execution.
 
 ## 🚀 Application Preview
 
-![demo](https://github.com/Tanmay1112004/6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Salary%20price%20prediction%20app/screenshot%20and%20app%20demo/Screenshot%202025-08-04%20215646.png)
+![demo](https://github.com//6-MONTHS-FS-DS-AI-Roadmap-2025/blob/main/Salary%20price%20prediction%20app/screenshot%20and%20app%20demo/Screenshot%202025-08-04%20215646.png)
 
 ---
 
