@@ -58,7 +58,7 @@ This project analyzes key indicators to evaluate:
 
 ### Income vs Expenses — Correlation
 
-![Income vs Expense Scatter](https://seaborn.pydata.org/_images/regplot_1_0.)
+![Income vs Expense Scatter](https://seaborn.pydata.org/_images/regplot_1_0.png)
 
 ➡️ Strong positive relationship: Higher income generally leads to higher expenses, though not proportionally for all households.
 
