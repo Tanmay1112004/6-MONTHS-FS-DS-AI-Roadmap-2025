@@ -122,11 +122,6 @@ Insights from this analysis can support:
 🛍️ Consumer behavior analysis
 🏠 Household policy design
 
----
-
-## 🙏 Acknowledgment
-
-Special thanks to **Prakash Senapati Sir** for guidance and mentorship during the statistical analysis workshop.
 
 ---
 
