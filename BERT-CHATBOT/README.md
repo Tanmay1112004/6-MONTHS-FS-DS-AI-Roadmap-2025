@@ -34,7 +34,7 @@ This project delivers an intuitive chat experience using **semantic similarity**
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com//bert-chatbot.git
+git clone https://github.com/Tanmay1112004/bert-chatbot.git
 cd bert-chatbot
 ```
 
