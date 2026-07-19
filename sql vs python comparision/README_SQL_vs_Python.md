@@ -1,8 +1,5 @@
 # 🐍 SQL vs. Python: The Data Analysis Face-Off 📊
 
-![Image](https://learn.microsoft.com/en-us/fabric/data-warehouse/media/sql-query-editor/sql-query-editor-overview.png)
-
-![Image](https://dataplatform.cloud.ibm.com/docs/api/content/wsj/getting-started/images/gs-notebook-cell01.png?context=wx\&locale=en)
 
 ![Image](https://substackcdn.com/image/fetch/%24s_%21xeDw%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9e53e45-be96-45ff-a2d1-b037d0d25710_1618x804.png)
 
