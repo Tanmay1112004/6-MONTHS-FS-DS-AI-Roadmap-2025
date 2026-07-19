@@ -1,10 +1,5 @@
 # 🐍 SQL vs. Python: The Data Analysis Face-Off 📊
 
-
-![Image](https://substackcdn.com/image/fetch/%24s_%21xeDw%21%2Cf_auto%2Cq_auto%3Agood%2Cfl_progressive%3Asteep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2Ff9e53e45-be96-45ff-a2d1-b037d0d25710_1618x804.png)
-
-![Image](https://media.licdn.com/dms/image/v2/D4D22AQGWBdPAfhMQgA/feedshare-shrink_800/B4DZZl2cN7HIAg-/0/1745465494155?e=2147483647\&t=nMamyVFScKZogcD8knZSISAbWB1EtaYTH_SnuUoNUDM\&v=beta)
-
 In Data Analytics, the same problem can often be solved using **multiple tools**.
 Two of the most powerful tools are **SQL** and **Python** with **Pandas**.
 
