@@ -92,7 +92,7 @@ Steps:
 ### 💻 Option 2: Local Setup
 
 ```bash
-git clone https://github.com/Tanmay1112004/ai-nexus-pro.git
+git clone https://github.com//ai-nexus-pro.git
 cd ai-nexus-pro
 pip install -r requirements.txt
 streamlit run app.py
@@ -226,5 +226,3 @@ Built with ❤️ for developers who ship.
 </div>
 
 ---
-
-
