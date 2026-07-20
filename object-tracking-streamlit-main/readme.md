@@ -134,3 +134,4 @@ If you have ideas for new trackers, metrics, or UI improvements — let’s ship
 This app keeps things simple while delivering real value.
 
 ---
+
