@@ -84,7 +84,7 @@ This project demonstrates:
 ### 🔹 Run Locally
 
 ```bash
-git clone https://github.com//nltk-streamlit-chatbot.git
+git clone https://github.com/Tanmay1112004/nltk-streamlit-chatbot.git
 cd nltk-streamlit-chatbot
 python -m venv .venv
 source .venv/bin/activate
