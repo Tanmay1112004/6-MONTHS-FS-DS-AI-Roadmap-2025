@@ -27,19 +27,6 @@ Customer reviews are gold — but only if you can **understand them at scale**.
 
 ---
 
-
-![Image](https://images.openai.com/static-rsc-4/rdwe0_aTQt-Y1auKc0i9DkCRe2AuvMKv0Sb9oMU5sB_LpkhMckKd6LK9pL1KE9xQkardsIepRHlQa8E5g919MFKEUhC9llT3J_jm38RGS6FVopYgb204LWcEj-GQEh07D1cRyKU97o9GUDCyFhPmfdVBlauWxs0tuaTbP-0Zk3vmGRToxj4imvaNn9tizz-4?purpose=fullsize)
-
-> Comparative evaluation of 9+ ML models using Accuracy, F1-Score, ROC-AUC, and Confusion Matrices.
-
----
-
-### 🔍 NLP Pipeline Flow
-
-> End-to-end workflow from raw text preprocessing to model evaluation.
-
----
-
 ## 🚨 Problem Statement
 
 Businesses receive thousands of reviews.
