@@ -42,8 +42,6 @@ Customer reviews are gold — but only if you can **understand them at scale**.
 
 ### 🔍 NLP Pipeline Flow
 
-
-
 > End-to-end workflow from raw text preprocessing to model evaluation.
 
 ---
