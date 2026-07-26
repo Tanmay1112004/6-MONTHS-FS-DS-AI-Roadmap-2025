@@ -26,9 +26,6 @@ Customer reviews are gold — but only if you can **understand them at scale**.
 * 🧠 Actionable business intelligence
 
 ---
-![Image](https://images.openai.com/static-rsc-4/l_lyQcA0Yq6S522JqSPST_2cx8amg6A1CjjEIAVQ0AY2PoVXDGIJn4hQetpo1X1gWvRuqcN3BxM3oCi4KhzQ06UNK8nbzTAC12YGIJv3MoMOM0SpSiZwJCXcGA71ba2fXdY5ABfrczBNbgA2eWtU0RKLNcbjn-3pb1xnIwA8NKqye-fvuG2eMMeE3ye1PQOT?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/zEhea8b7sAbEIWiM2QxjE_kkAgmb38-z4-7TYP0TKK-tR-0ubRAH2YiuMk1dkplQTEzInubhfj88Wef1xb03Ya2z2uaVcCg5zZKItlsOqwOJRvrvvqkbNLNwRWpLQ-SZqhscoqXPrN1WDmX7y6pJCnVXtrxEr-vNo1I0DeXRLon4XZuBM3pjVTaKEUBO6YXD?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/-GzJN3sOcwqKmG9iwIEYnE4SBi-7xlszvo3S6Q6ecIZFC86dBWmlnbNfWoBAjVajZ6vwIQTjABchKsV8DDNAOfvn0GN-9Ydz1nBA_68a67y-T18CDu5Yy-deKfGEDQwt_Jk-ibnNLd1p6GRzks_gwAWiVdSW7JJ21KD3yRjKBx8tLY-GIEv_KwF70iHZg64Y?purpose=fullsize)
 
