@@ -27,9 +27,6 @@ Customer reviews are gold — but only if you can **understand them at scale**.
 
 ---
 
-![Image](https://images.openai.com/static-rsc-4/-GzJN3sOcwqKmG9iwIEYnE4SBi-7xlszvo3S6Q6ecIZFC86dBWmlnbNfWoBAjVajZ6vwIQTjABchKsV8DDNAOfvn0GN-9Ydz1nBA_68a67y-T18CDu5Yy-deKfGEDQwt_Jk-ibnNLd1p6GRzks_gwAWiVdSW7JJ21KD3yRjKBx8tLY-GIEv_KwF70iHZg64Y?purpose=fullsize)
-
-![Image](https://images.openai.com/static-rsc-4/8LW8iq-x8uq4FM6hwAGz3JhguRqN77keWQQnnO7LyasPjQQeSJmCC_klA34oKTf8LNl2tsZMdmUguyoZuXSdQtUwgOBFJJMaGvMELYnPLB5We4ELs_Rnidtzu87mJOYMee1pKynDiCPle9Vmy8uTV5mF0b3Emc72AOEzp-urpwLqAh8OqGWfZnrims3Y3arb?purpose=fullsize)
 
 ![Image](https://images.openai.com/static-rsc-4/rdwe0_aTQt-Y1auKc0i9DkCRe2AuvMKv0Sb9oMU5sB_LpkhMckKd6LK9pL1KE9xQkardsIepRHlQa8E5g919MFKEUhC9llT3J_jm38RGS6FVopYgb204LWcEj-GQEh07D1cRyKU97o9GUDCyFhPmfdVBlauWxs0tuaTbP-0Zk3vmGRToxj4imvaNn9tizz-4?purpose=fullsize)
 
