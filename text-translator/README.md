@@ -41,7 +41,7 @@ Built for **language learners, analysts, and accessibility use cases**, this pro
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Tanmay1112004/.git
+git clone https://github.com/Tanmay1112004/text-translator.git
 cd <your-repo>
 ```
 
