@@ -69,7 +69,7 @@ Because visibility matters as much as skill.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Tanmay1112004/YOUR_REPO_NAME.git
+git clone https://github.com/Tanmay1112004/sql_comparasion_operator.git
 ```
 
 ### 2️⃣ Practice SQL
