@@ -2,7 +2,7 @@
 
 > From basic queries to professional-grade data logic — structured, practical, interview-ready.
 
-This repository is a **curated SQL learning roadmap** developed under the mentorship of **Prakash Sir**, designed to bridge the gap between beginner syntax and production-level database thinking.
+This repository is a **curated SQL learning roadmap** developed, designed to bridge the gap between beginner syntax and production-level database thinking.
 
 ---
 
