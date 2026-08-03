@@ -79,6 +79,6 @@ If you're interested in **AI, NLP, or building Python apps**, this is a fun proj
 
 Let’s connect and build cool things together 🚀
 
-Python #Streamlit #AI #NLP #MachineLearning #OpenSource #BuildInPublic #DataScience
+#Python #Streamlit #AI #NLP #MachineLearning #OpenSource #BuildInPublic #DataScience
 
 ---
