@@ -69,7 +69,7 @@ Simple pipeline. Solid ML fundamentals. Clean execution.
 ### 1️⃣ Clone the repository
 
 ```bash
-git clone https://github.com//Next-Word-Generation-LSTM.git
+git clone https://github.com/Tanmay1112004/Next-Word-Generation-LSTM.git
 cd Next-Word-Generation-LSTM
 ```
 
