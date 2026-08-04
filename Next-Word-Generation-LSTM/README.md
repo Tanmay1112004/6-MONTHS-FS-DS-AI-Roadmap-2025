@@ -151,7 +151,7 @@ If this project helped you:
 * **Star the repository**
 * Share feedback
 * Connect with me on **LinkedIn**
-  👉 [https://www.linkedin.com/tanmay-kshirsagar](https://www.linkedin.com/tanmay-kshirsagar)
+  👉 
 
 Let’s build smarter NLP systems — one word at a time 💡🔥
 
