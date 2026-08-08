@@ -49,7 +49,7 @@ A stunning, dark-themed luxury property booking platform powered by AI assistanc
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Tanmay1112004/nexusstay.git
+   git clone https://github.com//nexusstay.git
    cd nexusstay
    ```
 
@@ -189,6 +189,5 @@ For support and questions:
 ---
 
 **Experience luxury redefined with NexusStay AI** 🏰✨
-
 
 ```
