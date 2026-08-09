@@ -119,11 +119,3 @@ churn-dashboard/
 * [ ] Multi-model comparison page (LogReg vs XGBoost vs GBM)
 
 ---
-
-## 🏆 **Author**
-
-👤 **Tanmay**
-*Data Science • Machine Learning • Business Analytics*
-
----
-
