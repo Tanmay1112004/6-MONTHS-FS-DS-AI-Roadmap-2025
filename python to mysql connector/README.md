@@ -222,11 +222,6 @@ Unit tests will validate:
 
 ---
 
-## 👨‍💻 Author
 
-**Tanmay Kshirsagar**
-
-🔗 LinkedIn: [https://linkedin.com/in/tanmay-kshirsagar](https://linkedin.com/in/tanmay-kshirsagar)
-💻 GitHub: [https://github.com/Tanmay1112004](https://github.com/Tanmay1112004)
 
 ---
