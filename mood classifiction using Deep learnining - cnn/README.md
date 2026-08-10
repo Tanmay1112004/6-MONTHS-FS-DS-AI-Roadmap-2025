@@ -139,3 +139,6 @@ Let’s build it together.
 
 > 💡 **Pro Tip:** Use clear, front-facing images for best prediction accuracy.
 > This model rewards clean data. Clean data wins. 🚀
+
+---
+
