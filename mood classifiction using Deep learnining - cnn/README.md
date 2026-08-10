@@ -92,7 +92,7 @@ Clean UX. No clutter. Straight to the point.
 ## 🔧 Setup Instructions (Local)
 
 ```bash
-git clone https://github.com//mood-classification-cnn.git
+git clone https://github.com/Tanmay1112004/mood-classification-cnn.git
 cd mood-classification-cnn
 pip install -r requirements.txt
 ```
