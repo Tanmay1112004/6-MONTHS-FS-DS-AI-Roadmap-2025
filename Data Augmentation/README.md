@@ -1,5 +1,3 @@
----
-
 # ✨ Image Data Augmentation Playground
 
 An **interactive, Gradio-powered web application** for visualizing and experimenting with **image data augmentation techniques** in real time.
