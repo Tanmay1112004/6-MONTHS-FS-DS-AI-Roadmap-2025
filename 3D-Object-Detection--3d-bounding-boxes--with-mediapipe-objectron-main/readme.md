@@ -239,16 +239,3 @@ This is a strong portfolio project for:
 MIT License
 
 ---
-
-### 👨‍💻 Author
-
-**Tanmay**
-
-Open to opportunities in:
-
-* Computer Vision
-* 3D Vision Systems
-* AI/ML Engineering
-* Applied Deep Learning
-
----
