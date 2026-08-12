@@ -144,7 +144,7 @@ pip install -r requirements.txt
 ### 5️⃣ Run App
 
 ```bash
-
+streamlit run streamlit_app.py
 ```
 
 ---
