@@ -1,4 +1,4 @@
-# 🚀 6-Month Full Stack Data Science & AI Roadmap – 2025  
+# 🚀 6-Month Full Stack Data Science & AI Roadmap – 2025-26  
 *From Fundamentals to Production-Ready AI & Full Stack Integration*  
 
 ---
