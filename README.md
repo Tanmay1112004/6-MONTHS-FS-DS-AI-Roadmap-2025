@@ -103,5 +103,9 @@ After completing this roadmap, you’ll be ready for roles such as:
 
 ---
 
+💼 LinkedIn: [https://www.linkedin.com/in/tanmay-kshirsagar]
+🌐 GitHub: [https://github.com/Tanmay1112004]
+📧 Email: [tanmaykshirsagar001@gmail.com]
 
 ---
+
