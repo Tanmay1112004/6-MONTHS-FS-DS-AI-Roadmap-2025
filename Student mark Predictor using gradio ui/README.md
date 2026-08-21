@@ -127,7 +127,8 @@ student-mark-prediction/
 ### 🔹 1. Clone Repository
 
 ```bash
-
+git clone https://github.com/Tanmay1112004/student-mark-prediction.git
+cd student-mark-prediction
 ```
 
 ### 🔹 2. Install Dependencies
