@@ -42,7 +42,7 @@ Built for **language learners, analysts, and accessibility use cases**, this pro
 
 ```bash
 git clone https://github.com/Tanmay1112004/text-translator.git
-cd <your-repo>
+cd text-translator
 ```
 
 ### 2️⃣ Create & Activate Virtual Environment (Recommended)
