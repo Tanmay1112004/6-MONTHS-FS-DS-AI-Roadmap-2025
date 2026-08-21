@@ -125,4 +125,3 @@ If this project helped you:
 
 ---
 
-Just say the word.
