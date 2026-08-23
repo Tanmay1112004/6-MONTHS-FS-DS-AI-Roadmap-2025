@@ -1,4 +1,4 @@
-# 📊 Household Descriptive 
+# 📊 Household Descriptive Statistics Analysis
 
 ### Turning Raw Data into Financial Insights
 
