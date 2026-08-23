@@ -200,7 +200,7 @@ pip install -r requirements.txt
 ## 🤝 Connect
 
 💼 LinkedIn
-https://www.linkedin.com/in/tanmay-kshirsagar/
+[linkedin.com/in/tanmay-kshirsagar](https://www.linkedin.com/in/tanmay-kshirsagar/)
 
 📧 Email
 [tanmaykshirsagar001@gmail.com](mailto:tanmaykshirsagar001@gmail.com)
