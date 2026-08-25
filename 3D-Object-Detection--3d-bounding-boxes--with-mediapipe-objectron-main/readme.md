@@ -233,9 +233,3 @@ This is a strong portfolio project for:
 * Deployment on cloud (Render / AWS / GCP)
 
 ---
-
-## 📄 License
-
-MIT License
-
----
