@@ -103,5 +103,3 @@ If you’re exploring **Multimodal AI, Gemini, or Generative Interfaces**, this 
 That’s the open-source KPI. 📈
 
 ---
-
-
