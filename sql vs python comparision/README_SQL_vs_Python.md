@@ -121,6 +121,6 @@ Great data analysts know **both SQL and Python**.
 * **SQL → best for databases & querying**
 * **Python → best for analysis & modeling**
 
-Master both, and you control the entire data pipeline.
+
 
 ---
