@@ -116,7 +116,6 @@ This repo shows not just syntax knowledge, but structured learning progression.
 
 If you're in Data Science, Analytics, or Engineering — let’s build together.
 
-🔗 LinkedIn:
-Tanmay – [https://www.linkedin.com/in/tanmay-kshirsagar/](https://www.linkedin.com/in/tanmay-kshirsagar/)
+
 
 ---
