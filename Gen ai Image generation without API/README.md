@@ -200,6 +200,3 @@ If this project helped you explore Generative AI, consider giving it a ⭐ on Gi
 💻 GitHub: [https://github.com/Tanmay1112004](https://github.com/Tanmay1112004)
 
 ---
-
-
-
