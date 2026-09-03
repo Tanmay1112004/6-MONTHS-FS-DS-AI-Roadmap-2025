@@ -182,5 +182,3 @@ google-generativeai
 ```
 
 ---
-
-
