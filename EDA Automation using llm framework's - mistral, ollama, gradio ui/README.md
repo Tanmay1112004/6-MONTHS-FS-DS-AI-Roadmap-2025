@@ -72,6 +72,11 @@ EDA-LLM-Automation/
 
 ---
 
+## 🤝 Contributions
 
+Contributions are welcome!
+Feel free to fork the repository, improve prompt engineering, add visualizations, or integrate more LLMs.
+
+If you found this useful, don’t forget to ⭐ the repo — it helps a lot.
 
 ---
