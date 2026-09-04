@@ -56,10 +56,6 @@ This repository contains a **Jupyter Notebook** that covers **Object-Oriented Pr
    jupyter notebook
    ```
 
-## 🎯 Ideal For
 
-* Students revising **Python OOPs** for interviews
-* Beginners learning Python OOP
-* Quick hands-on practice
 
 ---
