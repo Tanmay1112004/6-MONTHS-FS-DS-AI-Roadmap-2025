@@ -219,9 +219,7 @@ MIT License. Free to use, modify, and deploy.
 
 ### ⭐ If this project helped you, give it a star
 
-It helps more than you think.
 
-Built with ❤️ for developers who ship.
 
 </div>
 
