@@ -178,12 +178,6 @@ This type of repo is **excellent for interviews**, especially when explaining **
 
 ## 🤝 Contributing
 
-Found a better visualization or explanation?
 
-1. Fork the repository
-2. Create a feature branch
-3. Submit a pull request
-
-Let’s make machine learning easier to understand.
 
 ---
