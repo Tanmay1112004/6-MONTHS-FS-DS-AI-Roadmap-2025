@@ -99,6 +99,6 @@ Built with passion & caffeine by **Tanmay**
 
 ---
 
-⭐ If this project adds value, drop a **star** — it keeps the innovation engine running!
+
 
 ---
