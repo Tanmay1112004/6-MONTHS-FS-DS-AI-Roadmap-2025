@@ -207,20 +207,6 @@ Recommended `max_dim = 800–1200`
 
 ---
 
-## 🎯 What This Project Demonstrates
-
-* Advanced computer vision knowledge
-* 3D spatial transformations
-* Pose estimation understanding
-* ML-to-UI deployment skills
-* Cloud-based development workflow
-
-This is a strong portfolio project for:
-
-* Computer Vision roles
-* Robotics applications
-* AR/VR systems
-* Applied AI Engineering
 
 ---
 
