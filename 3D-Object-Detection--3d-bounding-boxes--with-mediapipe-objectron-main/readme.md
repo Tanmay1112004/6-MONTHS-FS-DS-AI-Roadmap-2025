@@ -224,5 +224,12 @@ This is a strong portfolio project for:
 
 ---
 
+## 🔮 Future Enhancements
+
+* Real-time webcam 3D detection
+* Depth estimation integration
+* Multi-object simultaneous tracking
+* WebGL 3D rendering
+* Deployment on cloud (Render / AWS / GCP)
 
 ---
