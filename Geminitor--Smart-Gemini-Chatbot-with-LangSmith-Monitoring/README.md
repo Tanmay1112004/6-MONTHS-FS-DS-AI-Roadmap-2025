@@ -172,6 +172,12 @@ Built with passion for **LLMs**, **clean UI**, and **LLMOps excellence**.
 
 ---
 
+## 📎 Sample `requirements.txt`
 
+```txt
+streamlit
+langchain
+langchain-google-genai
+google-generativeai
 ```
 ---
