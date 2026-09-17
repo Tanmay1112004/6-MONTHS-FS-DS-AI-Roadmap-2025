@@ -100,12 +100,7 @@ image-data-augmentation-gradio/
 
 ---
 
-## 🤝 Contributing
 
-Contributions are welcome!
-Feel free to fork the repository, improve the UI/UX, add new augmentation techniques, or optimize performance.
-
-If this project helped you, ⭐ the repo — it genuinely helps.
 
 ---
 
