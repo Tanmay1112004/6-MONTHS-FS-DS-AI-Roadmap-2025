@@ -90,7 +90,13 @@ image-data-augmentation-gradio/
 
 ---
 
+## ✅ Requirements
 
+* Python **3.8+**
+* TensorFlow **2.x**
+* Gradio **4.x**
+* NumPy
+* Pillow
 
 ---
 
