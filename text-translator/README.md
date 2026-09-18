@@ -115,13 +115,7 @@ streamlit run app.py --server.address 0.0.0.0 --server.port 7860
 
 ---
 
-## ⭐ Support
 
-If this project helped you:
-
-* ⭐ Star the repository
-* 🔁 Share it with your network
-* 💡 Fork it and build something cooler
 
 ---
 
