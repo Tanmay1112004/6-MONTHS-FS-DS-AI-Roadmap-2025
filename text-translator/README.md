@@ -105,13 +105,7 @@ streamlit run app.py --server.address 0.0.0.0 --server.port 7860
 
 ---
 
-## 👨‍💻 Author
 
-**Tanmay Kshirsagar**
-🎓 Computer Engineering | Data Science | Full-Stack Developer
-
-* 💼 [LinkedIn](https://www.linkedin.com/in/tanmay-kshirsagar)
-* 🐙 [GitHub](https://github.com/Tanmay1112004)
 
 ---
 
