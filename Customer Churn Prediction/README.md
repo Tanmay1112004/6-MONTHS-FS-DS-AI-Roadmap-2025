@@ -110,6 +110,12 @@ churn-dashboard/
 
 ---
 
+## 🧭 **Roadmap**
 
+* [ ] Add SHAP-based explainability
+* [ ] Deploy using Docker + Render/Cloud Run
+* [ ] Integrate real Telco Customer Churn dataset
+* [ ] Add login/authentication for enterprise use
+* [ ] Multi-model comparison page (LogReg vs XGBoost vs GBM)
 
 ---
