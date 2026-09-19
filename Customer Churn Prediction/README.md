@@ -99,7 +99,14 @@ churn-dashboard/
 
 ---
 
+## 🛠 **Requirements**
 
+* Python 3.9+
+* gradio
+* scikit-learn
+* pandas
+* numpy
+* matplotlib
 
 ---
 
