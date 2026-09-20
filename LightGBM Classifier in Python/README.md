@@ -211,7 +211,11 @@ lightgbm-classifier/
 
 ## 👨‍💻 Author
 
+**Tanmay Kshirsagar**
 
+📩 [tanmaykshirsagar001@gmail.com](mailto:tanmaykshirsagar001@gmail.com)
+🔗 LinkedIn: [https://linkedin.com/in/tanmay-kshirsagar](https://linkedin.com/in/tanmay-kshirsagar)
+💻 GitHub: [https://github.com/Tanmay1112004](https://github.com/Tanmay1112004)
 
 ---
 
