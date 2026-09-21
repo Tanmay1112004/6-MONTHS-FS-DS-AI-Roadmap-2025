@@ -107,12 +107,6 @@ Always open to discussions around **ML apps, data science, and real-world deploy
 
 ---
 
-## ⭐ Support
 
-If you found this project useful or inspiring,
-**drop a star ⭐ and keep building.**
-
-Models matter.
-Deployment matters more. 🚀
 
 ---
