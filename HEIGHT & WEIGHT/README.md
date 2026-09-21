@@ -98,12 +98,7 @@ Perfect for **portfolios, interviews, and demos**.
 
 ---
 
-## 🤝 Let’s Connect
 
-* 💼 **LinkedIn:** [https://www.linkedin.com/in/tanmay-kshirsagar/](https://www.linkedin.com/in/tanmay-kshirsagar/)
-* 📧 **Email:** [tanmaykshirsagar001@gmail.com](mailto:tanmaykshirsagar001@gmail.com)
-
-Always open to discussions around **ML apps, data science, and real-world deployments**.
 
 ---
 
