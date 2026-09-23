@@ -137,6 +137,11 @@ This keeps the model honest and production-ready.
 
 ---
 
+## 🤝 Acknowledgements
+
+* **Dataset:** TMDB 5000 Movies Dataset (Kaggle)
+  [https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata](https://www.kaggle.com/datasets/tmdb/tmdb-movie-metadata)
+
 
 ---
 
