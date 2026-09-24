@@ -248,6 +248,9 @@ Data is everywhere.
 
 ---
 
+<p align="center">
+  🍴 <b>Listen to your customers. At scale.</b>
+</p>
 
 ---
 
