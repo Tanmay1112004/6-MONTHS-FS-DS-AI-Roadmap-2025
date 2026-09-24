@@ -198,3 +198,7 @@ Open to opportunities in:
 ## 📜 License
 
 This project is licensed under the MIT License.
+
+---
+
+
