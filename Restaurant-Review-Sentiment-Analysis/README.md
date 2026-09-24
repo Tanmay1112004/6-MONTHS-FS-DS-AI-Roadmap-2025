@@ -240,7 +240,11 @@ If this project helped you:
 
 ---
 
+## 🔥 Final Thought
 
+Data is everywhere.
+
+👉 The real skill is turning it into decisions.
 
 ---
 
