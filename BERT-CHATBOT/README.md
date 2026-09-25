@@ -90,7 +90,12 @@ Extend easily — just add more Q&A pairs inside `qa_pairs` in `app.py`.
 
 ---
 
+## 👨‍💻 **Author**
 
+Built with passion & caffeine by **Tanmay**
+
+* LinkedIn: [tanmay-kshirsagar](https://linkedin.com/in/tanmay-kshirsagar)
+* GitHub: [Tanmay1112004](https://github.com/Tanmay1112004)
 
 ---
 
