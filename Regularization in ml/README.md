@@ -165,7 +165,14 @@ jupyter notebook Regularization_Guide.ipynb
 
 ---
 
+## 🎯 What This Project Demonstrates
 
+* Strong ML theory understanding
+* Ability to explain models clearly
+* Practical Python implementation
+* Visualization of regularization effects
+
+This type of repo is **excellent for interviews**, especially when explaining **bias–variance tradeoff**.
 
 ---
 
