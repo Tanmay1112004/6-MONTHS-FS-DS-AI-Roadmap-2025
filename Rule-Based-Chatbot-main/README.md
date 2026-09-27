@@ -162,6 +162,9 @@ Sometimes simplicity wins.
 
 ---
 
+## 📜 License
 
+MIT License
+© 2026 — Built by Tanmay
 
 ---
