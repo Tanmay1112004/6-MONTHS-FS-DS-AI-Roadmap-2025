@@ -231,8 +231,5 @@ Models get the spotlight.
 
 ---
 
-<p align="center">
-  🚢 <b>Clean Data. Better Models. Real Impact.</b>
-</p>
 
 ---
