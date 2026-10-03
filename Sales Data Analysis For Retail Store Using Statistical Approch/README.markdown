@@ -188,8 +188,6 @@ Licensed under the **MIT License**
 
 ---
 
-## ⭐ Final Note
 
-If this project helped you or inspired your learning, consider giving it a ⭐
 
 ---
