@@ -181,6 +181,10 @@ Licensed under the **MIT License**
 
 ---
 
+## 📬 Connect
+
+👨‍💻 **Tanmay Kshirsagar**
+💼 Open to Data Science, Analytics & ML Opportunities
 
 ---
 
