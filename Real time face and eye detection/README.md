@@ -225,7 +225,9 @@ Deep learning gets attention.
 
 ---
 
-
+<p align="center">
+  👀 <b>See smarter. Detect faster.</b>
+</p>
 
 ---
 
