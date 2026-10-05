@@ -179,12 +179,7 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 - **Plotly** for interactive visualizations
 - **Airbnb** for design inspiration
 
-## 📞 Support
 
-For support and questions:
-- Open an issue on GitHub
-- Check the AI assistant in the app
-- Review the documentation
 
 ---
 
