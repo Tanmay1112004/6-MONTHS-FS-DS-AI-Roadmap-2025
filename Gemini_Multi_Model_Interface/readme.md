@@ -80,11 +80,7 @@ If it needs **text + vision**, this fits.
 
 ---
 
-## 🔐 API Setup
 
-Make sure you have access to the **Google Gemini API** and configure your API key as required (e.g., environment variable or notebook cell).
-
-> Pro tip: Never hardcode API keys. Ever.
 
 ---
 
