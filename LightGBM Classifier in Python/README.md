@@ -219,11 +219,7 @@ lightgbm-classifier/
 
 ---
 
-## ⭐ Support
 
-If this project helped you understand LightGBM better, consider giving it a ⭐.
-
-It helps more than you think.
 
 ---
 
