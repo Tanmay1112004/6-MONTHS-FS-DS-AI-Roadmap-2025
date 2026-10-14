@@ -172,12 +172,6 @@ Modify CSS variables in the style section:
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details.
 
-## 🏆 Acknowledgments
-
-- **Streamlit** for the amazing web app framework
-- **Unsplash** for high-quality property images
-- **Plotly** for interactive visualizations
-- **Airbnb** for design inspiration
 
 ---
 
