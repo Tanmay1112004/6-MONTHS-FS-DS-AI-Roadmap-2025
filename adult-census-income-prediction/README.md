@@ -213,8 +213,6 @@ Open to:
 
 ---
 
-## 📜 License
 
-MIT License — Free for academic and personal use.
 
 ---
