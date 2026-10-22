@@ -183,15 +183,6 @@ Open forwarded port **8501**.
 
 ---
 
-## 💡 Pro Tips
-
-* For **real-time server webcam**, run locally
-* For **zero-setup demo**, use Codespaces + browser webcam
-* Want to extend?
-
-  * Add gesture recognition ✋
-  * Add face mesh analytics 🧠
-  * Export landmarks to CSV 📊
 
 ---
 
