@@ -195,7 +195,13 @@ Open forwarded port **8501**.
 
 ---
 
+## ⭐ If You Like This Project
 
+* Give it a ⭐ on GitHub
+* Fork it
+* Build something cooler on top of it
+
+**Ship fast. Learn faster. 🚀**
 
 ---
 
