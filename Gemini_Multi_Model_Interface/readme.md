@@ -1,8 +1,6 @@
 # 🌟 Gemini Multimodal Interface
 
-A **clean, intuitive multimodal interface** for interacting with **Google’s Gemini AI**, supporting both **text generation** and **image understanding**—built using **Gradio** and optimized for rapid experimentation.
 
-> One interface. Multiple modalities. Zero friction.
 
 ---
 
