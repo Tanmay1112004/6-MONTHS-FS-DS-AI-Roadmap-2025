@@ -223,6 +223,6 @@ It helps more than you think.
 
 Built with ❤️ for developers who ship.
 
-
+</div>
 
 ---
