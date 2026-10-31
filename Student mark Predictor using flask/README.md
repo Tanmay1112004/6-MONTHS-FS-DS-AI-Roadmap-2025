@@ -247,6 +247,9 @@ Anyone can train a model.
 
 ---
 
+<p align="center">
+  🚀 <b>Predict Smart. Study Smarter.</b>
+</p>
 
 ---
 
