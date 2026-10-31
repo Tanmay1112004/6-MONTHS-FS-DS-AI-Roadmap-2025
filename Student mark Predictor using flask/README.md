@@ -239,11 +239,7 @@ This project reflects:
 
 ---
 
-## 🔥 Final Thought
 
-Anyone can train a model.
-
-👉 Very few can turn it into a usable product.
 
 ---
 
