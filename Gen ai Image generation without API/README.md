@@ -175,14 +175,7 @@ Future enhancements could include:
 
 ---
 
-## 📄 License & Attribution
 
-Released under the MIT License.
-
-This project builds upon foundational work by:
-
-* OpenAI (CLIP)
-* Taming Transformers research team (VQGAN)
 
 ---
 
