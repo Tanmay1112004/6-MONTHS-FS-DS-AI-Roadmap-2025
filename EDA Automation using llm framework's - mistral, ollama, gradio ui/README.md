@@ -63,7 +63,12 @@ EDA-LLM-Automation/
 
 ---
 
+## 🎯 Use Cases
 
+* Rapid dataset understanding
+* Automated reporting for business analysts
+* EDA acceleration for ML pipelines
+* Learning & experimentation with LLM-driven analytics
 
 ---
 
