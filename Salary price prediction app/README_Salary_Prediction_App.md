@@ -160,6 +160,12 @@ Open to opportunities in:
 
 ---
 
+## ⭐ Support the Project
 
+If you found this project helpful:
+
+⭐ Star the repository
+🍴 Fork it
+🚀 Build on top of it
 
 ---
