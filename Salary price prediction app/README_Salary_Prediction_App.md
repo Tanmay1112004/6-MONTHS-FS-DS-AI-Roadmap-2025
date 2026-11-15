@@ -143,7 +143,20 @@ Potential upgrades include:
 
 ---
 
+## 📬 Let’s Connect
 
+💼 LinkedIn
+[https://www.linkedin.com/in/tanmay-kshirsagar/](https://www.linkedin.com/in/tanmay-kshirsagar/)
+
+📧 Email
+[tanmaykshirsagar001@gmail.com](mailto:tanmaykshirsagar001@gmail.com)
+
+Open to opportunities in:
+
+* Machine Learning
+* Data Science
+* AI Engineering
+* Software Development
 
 ---
 
