@@ -102,6 +102,8 @@ MIT License © 2025 Tanmay
 
 ---
 
+## 📫 Contact
 
+For any questions or collaborations: [Tanmay GitHub](https://github.com/Tanmay1112004)
 
 ```
