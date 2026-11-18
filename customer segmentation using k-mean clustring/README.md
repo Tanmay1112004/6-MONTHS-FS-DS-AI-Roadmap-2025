@@ -180,7 +180,18 @@ This project demonstrates how machine learning can help organizations:
 
 ---
 
+## 👨‍💻 Author
 
+**Tanmay Kshirsagar**
+
+Aspiring Data Scientist | Machine Learning Engineer | Data Analyst
+
+Open to opportunities in:
+
+* Data Science
+* Machine Learning
+* Business Analytics
+* AI Engineering
 
 ---
 
@@ -189,5 +200,4 @@ This project demonstrates how machine learning can help organizations:
 This project is licensed under the MIT License.
 
 ---
-
 
