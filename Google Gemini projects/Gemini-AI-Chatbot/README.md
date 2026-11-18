@@ -86,8 +86,6 @@ You can toggle **Dark/Light mode** and scroll through your chat history.
 
 ---
 
-## 📄 License
 
-This project is open-source and free to use under the MIT License.
 
 ```
