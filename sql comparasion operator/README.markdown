@@ -97,18 +97,7 @@ git clone https://github.com/Tanmay1112004/sql_comparasion_operator.git
 
 ---
 
-## 📈 Why This Repository Matters
 
-SQL is the backbone of:
-
-* Data Analysis
-* Backend Engineering
-* Data Engineering
-* Business Intelligence
-
-Strong SQL = Strong foundation.
-
-This repo shows not just syntax knowledge, but structured learning progression.
 
 ---
 
