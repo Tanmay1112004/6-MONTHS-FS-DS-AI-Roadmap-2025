@@ -165,10 +165,7 @@ Built with passion for **LLMs**, **clean UI**, and **LLMOps excellence**.
 
 ---
 
-## 🏷️ Tags
 
-`#Gemini` `#LangChain` `#LangSmith` `#LLMOps` `#Streamlit`
-`#Chatbot` `#GenerativeAI` `#AIEngineering`
 
 ---
 
