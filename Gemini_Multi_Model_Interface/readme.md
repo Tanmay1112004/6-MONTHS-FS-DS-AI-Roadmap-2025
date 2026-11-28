@@ -88,7 +88,9 @@ Make sure you have access to the **Google Gemini API** and configure your API ke
 
 ---
 
+## 📄 License
 
+This project is licensed under the **MIT License** — free to use, modify, and distribute.
 
 ---
 
